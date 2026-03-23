@@ -1,0 +1,1001 @@
+Order_ID,Order date,order status,Payment mode,sales_chennel
+1001,04-11-2025,pending,net banking,offline
+1002,12-08-2025,completed,cash,offline
+1003,19-06-2025,cancelled,net banking,online
+1004,23-07-2025,cancelled,credit card,offline
+1005,16-09-2025,cancelled,credit card,offline
+1006,13-04-2025,completed,UPI,offline
+1007,06-09-2025,completed,net banking,online
+1008,18-03-2025,pending,credit card,online
+1009,05-12-2025,completed,net banking,online
+1010,16-02-2025,completed,debit card,offline
+1011,28-05-2025,completed,cash,offline
+1012,06-10-2025,pending,UPI,online
+1013,31-08-2025,cancelled,debit card,offline
+1014,15-06-2025,returned,cash,offline
+1015,08-10-2025,returned,cash,online
+1016,25-10-2025,completed,UPI,online
+1017,26-10-2025,completed,cash,offline
+1018,25-03-2025,pending,UPI,offline
+1019,10-08-2025,cancelled,debit card,online
+1020,30-10-2025,completed,cash,offline
+1021,25-12-2025,returned,net banking,online
+1022,23-08-2025,pending,UPI,offline
+1023,24-09-2025,cancelled,cash,offline
+1024,29-11-2025,returned,UPI,online
+1025,28-08-2025,returned,debit card,online
+1026,08-05-2025,returned,UPI,offline
+1027,09-08-2025,returned,cash,online
+1028,05-07-2025,completed,credit card,online
+1029,30-07-2025,completed,debit card,online
+1030,18-10-2025,completed,cash,online
+1031,17-12-2025,completed,credit card,offline
+1032,27-09-2025,returned,credit card,offline
+1033,25-02-2025,cancelled,credit card,online
+1034,07-05-2025,pending,net banking,offline
+1035,24-10-2025,pending,cash,online
+1036,02-11-2025,pending,net banking,online
+1037,23-05-2025,completed,net banking,offline
+1038,03-01-2025,returned,UPI,offline
+1039,23-09-2025,cancelled,credit card,online
+1040,04-11-2025,returned,net banking,online
+1041,30-11-2025,completed,UPI,offline
+1042,02-10-2025,returned,net banking,online
+1043,24-12-2025,pending,debit card,offline
+1044,04-04-2025,completed,debit card,online
+1045,20-01-2025,completed,UPI,online
+1046,01-02-2025,cancelled,debit card,offline
+1047,23-02-2025,returned,cash,online
+1048,11-10-2025,pending,credit card,offline
+1049,02-12-2025,pending,credit card,offline
+1050,14-02-2025,cancelled,cash,offline
+1051,23-11-2025,returned,cash,online
+1052,07-11-2025,pending,UPI,offline
+1053,23-06-2025,returned,debit card,online
+1054,18-02-2025,pending,UPI,offline
+1055,11-07-2025,pending,net banking,offline
+1056,17-06-2025,completed,cash,offline
+1057,10-10-2025,completed,credit card,offline
+1058,18-10-2025,returned,net banking,offline
+1059,17-02-2025,cancelled,credit card,online
+1060,22-05-2025,returned,cash,online
+1061,07-09-2025,pending,credit card,offline
+1062,25-07-2025,returned,debit card,offline
+1063,14-03-2025,pending,net banking,online
+1064,09-04-2025,returned,credit card,offline
+1065,30-10-2025,returned,credit card,online
+1066,29-01-2025,cancelled,cash,offline
+1067,03-12-2025,pending,net banking,online
+1068,01-10-2025,pending,credit card,online
+1069,29-07-2025,returned,debit card,online
+1070,15-05-2025,completed,net banking,online
+1071,11-05-2025,returned,UPI,online
+1072,01-12-2025,returned,credit card,online
+1073,12-12-2025,pending,credit card,online
+1074,31-08-2025,returned,debit card,offline
+1075,29-01-2025,cancelled,cash,offline
+1076,10-03-2025,cancelled,UPI,offline
+1077,14-04-2025,completed,cash,online
+1078,22-04-2025,cancelled,net banking,offline
+1079,29-08-2025,pending,cash,offline
+1080,21-07-2025,returned,cash,offline
+1081,17-03-2025,pending,cash,offline
+1082,06-02-2025,returned,debit card,offline
+1083,17-10-2025,completed,UPI,online
+1084,23-06-2025,returned,cash,offline
+1085,09-12-2025,completed,UPI,online
+1086,09-07-2025,returned,debit card,offline
+1087,07-05-2025,pending,UPI,online
+1088,07-10-2025,cancelled,net banking,offline
+1089,20-01-2025,completed,UPI,offline
+1090,10-02-2025,pending,credit card,online
+1091,15-12-2025,completed,debit card,offline
+1092,07-08-2025,cancelled,net banking,offline
+1093,07-09-2025,returned,net banking,online
+1094,07-09-2025,cancelled,cash,online
+1095,12-11-2025,returned,UPI,online
+1096,27-09-2025,completed,debit card,online
+1097,11-10-2025,pending,credit card,online
+1098,27-11-2025,completed,cash,online
+1099,07-03-2025,cancelled,UPI,offline
+1100,20-07-2025,completed,net banking,online
+1101,16-05-2025,cancelled,net banking,online
+1102,21-07-2025,completed,credit card,online
+1103,26-02-2025,completed,UPI,online
+1104,25-06-2025,cancelled,net banking,online
+1105,14-01-2025,pending,credit card,online
+1106,18-12-2025,cancelled,net banking,online
+1107,03-02-2025,returned,cash,online
+1108,11-11-2025,cancelled,UPI,online
+1109,17-02-2025,returned,credit card,online
+1110,07-06-2025,cancelled,UPI,online
+1111,30-08-2025,completed,UPI,offline
+1112,07-07-2025,completed,cash,offline
+1113,05-03-2025,completed,credit card,offline
+1114,18-10-2025,pending,debit card,offline
+1115,21-11-2025,cancelled,net banking,offline
+1116,20-11-2025,completed,UPI,online
+1117,26-04-2025,pending,credit card,online
+1118,14-04-2025,cancelled,credit card,offline
+1119,10-10-2025,pending,cash,offline
+1120,18-10-2025,cancelled,credit card,online
+1121,14-02-2025,cancelled,net banking,online
+1122,13-05-2025,cancelled,UPI,offline
+1123,30-08-2025,completed,UPI,offline
+1124,06-07-2025,cancelled,net banking,online
+1125,15-01-2025,completed,credit card,offline
+1126,01-12-2025,returned,net banking,offline
+1127,12-03-2025,completed,debit card,online
+1128,23-05-2025,completed,cash,online
+1129,21-01-2025,pending,UPI,offline
+1130,23-09-2025,cancelled,net banking,offline
+1131,24-01-2025,completed,net banking,online
+1132,02-07-2025,returned,credit card,online
+1133,24-11-2025,completed,UPI,offline
+1134,08-01-2025,pending,net banking,offline
+1135,01-01-2025,cancelled,net banking,offline
+1136,25-07-2025,completed,debit card,offline
+1137,08-09-2025,cancelled,credit card,online
+1138,18-06-2025,pending,UPI,online
+1139,16-02-2025,returned,net banking,offline
+1140,30-12-2025,completed,credit card,offline
+1141,24-09-2025,pending,cash,offline
+1142,17-09-2025,returned,UPI,offline
+1143,09-07-2025,cancelled,debit card,online
+1144,07-01-2025,returned,debit card,offline
+1145,08-03-2025,completed,UPI,online
+1146,10-12-2025,returned,net banking,online
+1147,23-08-2025,pending,cash,online
+1148,27-04-2025,cancelled,net banking,offline
+1149,11-09-2025,pending,UPI,offline
+1150,11-07-2025,returned,credit card,offline
+1151,29-01-2025,returned,debit card,offline
+1152,29-01-2025,cancelled,UPI,online
+1153,29-12-2025,completed,UPI,online
+1154,14-02-2025,returned,net banking,online
+1155,19-08-2025,completed,cash,online
+1156,08-02-2025,pending,UPI,offline
+1157,10-04-2025,cancelled,cash,online
+1158,31-01-2025,returned,credit card,online
+1159,04-06-2025,cancelled,net banking,offline
+1160,06-05-2025,returned,credit card,offline
+1161,14-10-2025,cancelled,cash,online
+1162,23-01-2025,returned,cash,online
+1163,15-11-2025,pending,cash,online
+1164,18-06-2025,returned,net banking,online
+1165,20-06-2025,returned,debit card,offline
+1166,11-05-2025,cancelled,cash,online
+1167,10-01-2025,returned,net banking,offline
+1168,03-08-2025,cancelled,credit card,online
+1169,05-06-2025,cancelled,debit card,online
+1170,04-12-2025,cancelled,credit card,online
+1171,21-09-2025,completed,credit card,offline
+1172,09-12-2025,completed,UPI,online
+1173,18-02-2025,completed,debit card,offline
+1174,29-03-2025,returned,net banking,online
+1175,14-02-2025,cancelled,net banking,online
+1176,28-02-2025,pending,UPI,offline
+1177,29-07-2025,returned,credit card,offline
+1178,29-12-2025,returned,debit card,online
+1179,27-09-2025,completed,cash,online
+1180,25-06-2025,cancelled,net banking,online
+1181,29-01-2025,pending,debit card,online
+1182,16-07-2025,completed,credit card,offline
+1183,19-01-2025,pending,credit card,offline
+1184,28-04-2025,returned,credit card,online
+1185,04-11-2025,returned,credit card,online
+1186,24-06-2025,completed,credit card,offline
+1187,17-10-2025,pending,debit card,offline
+1188,02-07-2025,pending,cash,offline
+1189,14-07-2025,returned,net banking,offline
+1190,15-02-2025,completed,cash,offline
+1191,27-05-2025,completed,net banking,online
+1192,28-04-2025,pending,UPI,offline
+1193,09-01-2025,cancelled,cash,offline
+1194,01-12-2025,completed,UPI,offline
+1195,20-09-2025,returned,credit card,offline
+1196,05-07-2025,completed,debit card,offline
+1197,15-10-2025,pending,credit card,offline
+1198,15-08-2025,completed,net banking,online
+1199,10-08-2025,returned,debit card,online
+1200,20-10-2025,completed,UPI,offline
+1201,16-04-2025,pending,debit card,offline
+1202,01-10-2025,returned,net banking,online
+1203,20-02-2025,returned,debit card,online
+1204,15-08-2025,cancelled,credit card,offline
+1205,16-04-2025,cancelled,UPI,offline
+1206,31-08-2025,pending,debit card,offline
+1207,12-12-2025,pending,debit card,offline
+1208,23-03-2025,cancelled,cash,online
+1209,10-11-2025,cancelled,UPI,online
+1210,26-04-2025,pending,UPI,online
+1211,15-09-2025,cancelled,cash,offline
+1212,22-02-2025,pending,cash,offline
+1213,14-03-2025,pending,credit card,online
+1214,08-10-2025,returned,credit card,offline
+1215,30-04-2025,completed,debit card,online
+1216,12-12-2025,cancelled,cash,online
+1217,02-11-2025,cancelled,cash,offline
+1218,21-08-2025,cancelled,debit card,online
+1219,29-08-2025,pending,credit card,offline
+1220,30-09-2025,returned,credit card,offline
+1221,03-08-2025,pending,cash,offline
+1222,12-04-2025,pending,cash,online
+1223,26-10-2025,pending,cash,online
+1224,01-09-2025,completed,debit card,offline
+1225,14-01-2025,returned,credit card,offline
+1226,19-07-2025,returned,credit card,offline
+1227,13-03-2025,pending,net banking,offline
+1228,21-05-2025,completed,debit card,offline
+1229,06-09-2025,returned,debit card,offline
+1230,02-08-2025,pending,cash,online
+1231,03-08-2025,returned,credit card,offline
+1232,14-09-2025,cancelled,credit card,online
+1233,06-12-2025,cancelled,UPI,online
+1234,08-07-2025,cancelled,credit card,online
+1235,09-01-2025,returned,net banking,online
+1236,26-12-2025,returned,net banking,offline
+1237,18-02-2025,cancelled,credit card,offline
+1238,24-02-2025,cancelled,debit card,offline
+1239,08-06-2025,completed,credit card,offline
+1240,01-01-2025,completed,credit card,offline
+1241,25-08-2025,cancelled,debit card,offline
+1242,07-09-2025,cancelled,credit card,offline
+1243,15-12-2025,pending,debit card,offline
+1244,01-08-2025,cancelled,cash,online
+1245,26-10-2025,completed,cash,online
+1246,14-07-2025,returned,credit card,offline
+1247,27-03-2025,completed,UPI,online
+1248,07-08-2025,returned,credit card,online
+1249,16-01-2025,returned,net banking,offline
+1250,26-05-2025,completed,UPI,online
+1251,14-12-2025,completed,net banking,offline
+1252,24-12-2025,returned,credit card,online
+1253,15-01-2025,completed,net banking,online
+1254,11-12-2025,completed,credit card,online
+1255,02-04-2025,returned,cash,online
+1256,26-03-2025,returned,cash,offline
+1257,13-10-2025,cancelled,credit card,offline
+1258,04-01-2025,cancelled,net banking,online
+1259,22-03-2025,pending,debit card,offline
+1260,05-09-2025,returned,net banking,online
+1261,21-12-2025,cancelled,debit card,online
+1262,08-12-2025,completed,debit card,online
+1263,29-08-2025,completed,net banking,online
+1264,30-06-2025,returned,net banking,offline
+1265,25-07-2025,pending,UPI,online
+1266,03-10-2025,cancelled,cash,online
+1267,13-12-2025,pending,cash,online
+1268,23-02-2025,cancelled,credit card,offline
+1269,12-05-2025,cancelled,debit card,offline
+1270,04-11-2025,returned,debit card,online
+1271,08-11-2025,pending,credit card,offline
+1272,30-01-2025,returned,net banking,offline
+1273,19-11-2025,completed,cash,online
+1274,16-10-2025,pending,credit card,online
+1275,28-04-2025,cancelled,credit card,offline
+1276,06-01-2025,pending,credit card,offline
+1277,30-01-2025,pending,net banking,online
+1278,12-10-2025,completed,credit card,online
+1279,13-11-2025,pending,credit card,online
+1280,07-12-2025,completed,credit card,online
+1281,10-10-2025,pending,UPI,online
+1282,26-02-2025,pending,UPI,online
+1283,07-07-2025,pending,net banking,offline
+1284,31-07-2025,returned,net banking,online
+1285,19-05-2025,completed,debit card,offline
+1286,01-10-2025,returned,credit card,online
+1287,03-03-2025,completed,net banking,offline
+1288,22-04-2025,cancelled,debit card,online
+1289,03-02-2025,returned,net banking,offline
+1290,21-05-2025,pending,debit card,offline
+1291,19-10-2025,completed,net banking,offline
+1292,02-12-2025,cancelled,net banking,offline
+1293,13-02-2025,completed,debit card,offline
+1294,13-08-2025,cancelled,cash,online
+1295,27-11-2025,completed,cash,online
+1296,22-04-2025,returned,cash,offline
+1297,19-09-2025,cancelled,net banking,online
+1298,05-09-2025,returned,net banking,offline
+1299,25-02-2025,pending,cash,online
+1300,05-09-2025,returned,net banking,online
+1301,08-08-2025,completed,credit card,offline
+1302,11-08-2025,returned,UPI,online
+1303,01-01-2025,completed,credit card,online
+1304,28-10-2025,completed,net banking,offline
+1305,15-09-2025,pending,UPI,online
+1306,20-09-2025,completed,UPI,online
+1307,08-08-2025,cancelled,debit card,online
+1308,30-09-2025,cancelled,credit card,online
+1309,03-11-2025,cancelled,cash,offline
+1310,21-10-2025,cancelled,debit card,online
+1311,03-05-2025,cancelled,UPI,online
+1312,28-03-2025,returned,UPI,online
+1313,11-12-2025,returned,debit card,offline
+1314,18-01-2025,pending,cash,offline
+1315,07-10-2025,cancelled,cash,offline
+1316,06-06-2025,pending,debit card,online
+1317,12-12-2025,pending,UPI,offline
+1318,16-03-2025,cancelled,credit card,online
+1319,28-09-2025,returned,debit card,online
+1320,03-12-2025,cancelled,UPI,online
+1321,02-11-2025,pending,UPI,online
+1322,05-07-2025,cancelled,net banking,offline
+1323,27-11-2025,returned,net banking,online
+1324,12-04-2025,pending,UPI,online
+1325,03-11-2025,completed,credit card,online
+1326,30-11-2025,completed,debit card,offline
+1327,13-12-2025,completed,net banking,offline
+1328,09-01-2025,completed,net banking,offline
+1329,07-02-2025,returned,cash,offline
+1330,24-09-2025,returned,credit card,offline
+1331,16-12-2025,cancelled,debit card,online
+1332,19-11-2025,pending,cash,online
+1333,04-02-2025,returned,credit card,offline
+1334,01-03-2025,pending,credit card,offline
+1335,01-07-2025,cancelled,debit card,offline
+1336,23-11-2025,completed,UPI,online
+1337,17-01-2025,returned,credit card,offline
+1338,02-06-2025,pending,UPI,offline
+1339,10-02-2025,cancelled,credit card,online
+1340,29-08-2025,completed,UPI,offline
+1341,14-07-2025,pending,UPI,online
+1342,25-09-2025,returned,debit card,offline
+1343,08-12-2025,returned,credit card,offline
+1344,14-06-2025,cancelled,credit card,online
+1345,07-11-2025,returned,cash,online
+1346,23-04-2025,pending,credit card,online
+1347,13-11-2025,returned,net banking,offline
+1348,31-05-2025,completed,cash,online
+1349,20-03-2025,completed,UPI,online
+1350,24-09-2025,completed,debit card,offline
+1351,09-06-2025,cancelled,UPI,offline
+1352,16-09-2025,returned,debit card,online
+1353,24-11-2025,returned,cash,online
+1354,12-01-2025,cancelled,cash,offline
+1355,25-12-2025,cancelled,UPI,offline
+1356,14-04-2025,completed,net banking,online
+1357,27-04-2025,completed,net banking,offline
+1358,16-12-2025,cancelled,credit card,online
+1359,13-03-2025,pending,credit card,offline
+1360,24-09-2025,returned,credit card,offline
+1361,11-07-2025,cancelled,debit card,offline
+1362,06-07-2025,completed,UPI,online
+1363,29-05-2025,cancelled,UPI,offline
+1364,13-07-2025,completed,cash,online
+1365,11-01-2025,returned,debit card,online
+1366,15-06-2025,cancelled,cash,online
+1367,10-11-2025,pending,credit card,online
+1368,17-02-2025,returned,UPI,online
+1369,27-10-2025,pending,UPI,online
+1370,20-01-2025,completed,cash,online
+1371,16-10-2025,cancelled,net banking,online
+1372,20-07-2025,returned,credit card,offline
+1373,31-10-2025,cancelled,credit card,offline
+1374,23-04-2025,completed,credit card,offline
+1375,01-12-2025,pending,UPI,offline
+1376,30-12-2025,completed,debit card,offline
+1377,30-11-2025,completed,debit card,online
+1378,03-10-2025,returned,net banking,offline
+1379,19-12-2025,pending,credit card,offline
+1380,08-09-2025,completed,net banking,online
+1381,21-09-2025,completed,UPI,offline
+1382,05-05-2025,pending,debit card,online
+1383,05-02-2025,pending,net banking,offline
+1384,02-03-2025,pending,UPI,online
+1385,05-05-2025,completed,debit card,online
+1386,13-08-2025,pending,credit card,online
+1387,24-09-2025,completed,UPI,offline
+1388,11-10-2025,returned,net banking,online
+1389,20-05-2025,pending,UPI,online
+1390,18-06-2025,cancelled,credit card,offline
+1391,15-08-2025,returned,net banking,online
+1392,01-02-2025,returned,UPI,offline
+1393,16-04-2025,cancelled,debit card,online
+1394,13-04-2025,completed,cash,online
+1395,25-05-2025,returned,cash,offline
+1396,06-03-2025,completed,cash,offline
+1397,29-10-2025,completed,debit card,offline
+1398,18-03-2025,completed,net banking,offline
+1399,10-04-2025,cancelled,credit card,online
+1400,26-07-2025,cancelled,UPI,online
+1401,07-04-2025,cancelled,cash,online
+1402,13-01-2025,cancelled,cash,online
+1403,21-08-2025,returned,UPI,online
+1404,25-11-2025,cancelled,net banking,online
+1405,20-01-2025,returned,credit card,online
+1406,17-02-2025,pending,net banking,offline
+1407,15-08-2025,returned,cash,offline
+1408,29-06-2025,cancelled,net banking,offline
+1409,29-07-2025,pending,UPI,online
+1410,26-02-2025,returned,net banking,online
+1411,01-02-2025,returned,credit card,online
+1412,28-05-2025,returned,credit card,online
+1413,28-06-2025,returned,net banking,online
+1414,24-09-2025,completed,UPI,online
+1415,10-05-2025,returned,credit card,online
+1416,19-11-2025,completed,debit card,offline
+1417,08-04-2025,returned,net banking,offline
+1418,20-09-2025,returned,credit card,online
+1419,14-07-2025,returned,debit card,online
+1420,23-06-2025,returned,UPI,offline
+1421,09-07-2025,pending,cash,offline
+1422,23-03-2025,pending,debit card,online
+1423,23-09-2025,completed,net banking,online
+1424,12-01-2025,pending,debit card,offline
+1425,04-03-2025,returned,UPI,online
+1426,28-11-2025,cancelled,credit card,online
+1427,08-02-2025,cancelled,credit card,offline
+1428,05-05-2025,cancelled,net banking,online
+1429,09-01-2025,completed,debit card,offline
+1430,17-01-2025,pending,net banking,online
+1431,16-11-2025,cancelled,net banking,online
+1432,07-06-2025,completed,credit card,online
+1433,12-06-2025,cancelled,credit card,offline
+1434,15-06-2025,cancelled,cash,offline
+1435,05-09-2025,pending,credit card,online
+1436,12-08-2025,pending,UPI,offline
+1437,11-05-2025,completed,net banking,offline
+1438,05-04-2025,completed,UPI,offline
+1439,20-10-2025,returned,UPI,online
+1440,10-04-2025,cancelled,net banking,online
+1441,30-04-2025,completed,UPI,offline
+1442,01-04-2025,returned,debit card,offline
+1443,05-02-2025,returned,net banking,online
+1444,01-02-2025,completed,credit card,offline
+1445,30-05-2025,returned,credit card,online
+1446,29-07-2025,cancelled,UPI,online
+1447,30-04-2025,completed,UPI,online
+1448,14-01-2025,cancelled,net banking,online
+1449,02-03-2025,completed,cash,online
+1450,26-04-2025,cancelled,net banking,offline
+1451,16-07-2025,cancelled,cash,offline
+1452,09-11-2025,returned,net banking,offline
+1453,16-02-2025,cancelled,UPI,offline
+1454,30-06-2025,returned,cash,online
+1455,17-05-2025,completed,net banking,offline
+1456,13-01-2025,completed,net banking,offline
+1457,25-03-2025,returned,net banking,offline
+1458,23-01-2025,returned,credit card,offline
+1459,10-04-2025,returned,credit card,offline
+1460,29-12-2025,returned,net banking,offline
+1461,19-06-2025,returned,net banking,online
+1462,03-12-2025,completed,credit card,offline
+1463,17-10-2025,cancelled,UPI,offline
+1464,10-11-2025,completed,net banking,offline
+1465,05-10-2025,completed,UPI,offline
+1466,29-01-2025,returned,credit card,online
+1467,24-06-2025,cancelled,credit card,online
+1468,27-06-2025,cancelled,credit card,offline
+1469,01-09-2025,pending,net banking,online
+1470,12-04-2025,cancelled,credit card,offline
+1471,29-08-2025,returned,debit card,online
+1472,16-06-2025,returned,cash,online
+1473,09-07-2025,returned,UPI,offline
+1474,14-02-2025,cancelled,debit card,offline
+1475,05-07-2025,cancelled,debit card,online
+1476,03-12-2025,cancelled,debit card,offline
+1477,22-05-2025,completed,cash,offline
+1478,28-12-2025,returned,UPI,offline
+1479,18-03-2025,cancelled,debit card,offline
+1480,24-03-2025,cancelled,debit card,online
+1481,31-08-2025,returned,cash,online
+1482,20-09-2025,completed,credit card,offline
+1483,08-07-2025,cancelled,UPI,offline
+1484,04-02-2025,pending,UPI,offline
+1485,12-07-2025,pending,net banking,online
+1486,10-09-2025,completed,debit card,offline
+1487,17-01-2025,returned,UPI,online
+1488,30-03-2025,cancelled,debit card,offline
+1489,27-05-2025,completed,credit card,offline
+1490,15-01-2025,cancelled,credit card,offline
+1491,10-05-2025,pending,credit card,offline
+1492,06-05-2025,pending,cash,online
+1493,21-04-2025,pending,cash,online
+1494,04-06-2025,returned,cash,offline
+1495,24-06-2025,returned,UPI,offline
+1496,13-05-2025,pending,UPI,offline
+1497,20-04-2025,pending,UPI,online
+1498,26-08-2025,pending,UPI,offline
+1499,17-10-2025,cancelled,UPI,online
+1500,08-01-2025,completed,debit card,offline
+1501,09-07-2025,returned,credit card,online
+1502,14-02-2025,completed,debit card,online
+1503,27-04-2025,cancelled,UPI,offline
+1504,10-12-2025,cancelled,credit card,offline
+1505,17-08-2025,returned,net banking,offline
+1506,27-09-2025,pending,debit card,offline
+1507,10-01-2025,cancelled,debit card,online
+1508,30-03-2025,returned,debit card,online
+1509,01-04-2025,pending,credit card,online
+1510,02-09-2025,completed,debit card,online
+1511,11-01-2025,returned,debit card,offline
+1512,16-06-2025,pending,cash,online
+1513,09-04-2025,cancelled,UPI,online
+1514,26-06-2025,completed,cash,offline
+1515,16-04-2025,cancelled,credit card,online
+1516,27-08-2025,pending,cash,offline
+1517,29-06-2025,completed,UPI,offline
+1518,24-04-2025,returned,credit card,offline
+1519,07-08-2025,completed,UPI,offline
+1520,21-01-2025,cancelled,credit card,offline
+1521,09-05-2025,pending,UPI,offline
+1522,28-08-2025,cancelled,debit card,online
+1523,04-09-2025,cancelled,cash,offline
+1524,16-10-2025,cancelled,net banking,offline
+1525,17-07-2025,cancelled,UPI,online
+1526,04-02-2025,completed,net banking,offline
+1527,24-11-2025,pending,cash,online
+1528,16-06-2025,returned,net banking,online
+1529,24-12-2025,returned,credit card,online
+1530,25-07-2025,cancelled,credit card,offline
+1531,20-02-2025,completed,cash,offline
+1532,14-03-2025,completed,debit card,online
+1533,16-12-2025,returned,cash,online
+1534,06-08-2025,cancelled,credit card,online
+1535,28-04-2025,cancelled,net banking,offline
+1536,13-08-2025,completed,net banking,offline
+1537,06-08-2025,returned,net banking,offline
+1538,27-04-2025,cancelled,credit card,offline
+1539,03-12-2025,pending,credit card,offline
+1540,04-09-2025,pending,net banking,online
+1541,24-02-2025,pending,debit card,online
+1542,18-04-2025,completed,UPI,online
+1543,18-01-2025,completed,UPI,offline
+1544,05-03-2025,returned,net banking,offline
+1545,13-02-2025,completed,debit card,offline
+1546,28-10-2025,completed,net banking,offline
+1547,12-10-2025,returned,net banking,online
+1548,29-12-2025,pending,UPI,online
+1549,22-11-2025,completed,credit card,online
+1550,10-12-2025,completed,credit card,offline
+1551,08-09-2025,returned,net banking,online
+1552,23-05-2025,returned,credit card,offline
+1553,04-01-2025,pending,UPI,offline
+1554,30-10-2025,pending,net banking,offline
+1555,09-01-2025,pending,debit card,online
+1556,16-03-2025,returned,credit card,online
+1557,16-03-2025,completed,UPI,online
+1558,21-11-2025,returned,credit card,online
+1559,06-04-2025,completed,cash,online
+1560,20-12-2025,cancelled,net banking,online
+1561,25-11-2025,returned,credit card,online
+1562,20-02-2025,completed,net banking,offline
+1563,19-07-2025,pending,debit card,online
+1564,27-10-2025,returned,credit card,online
+1565,13-06-2025,pending,UPI,offline
+1566,16-12-2025,pending,debit card,offline
+1567,09-07-2025,completed,debit card,offline
+1568,17-12-2025,pending,UPI,offline
+1569,20-02-2025,pending,UPI,offline
+1570,28-01-2025,completed,debit card,online
+1571,14-03-2025,pending,UPI,online
+1572,07-01-2025,cancelled,credit card,offline
+1573,23-09-2025,cancelled,UPI,offline
+1574,27-05-2025,returned,debit card,offline
+1575,21-02-2025,returned,credit card,offline
+1576,24-08-2025,cancelled,UPI,offline
+1577,26-12-2025,pending,debit card,online
+1578,27-08-2025,returned,credit card,online
+1579,23-07-2025,completed,net banking,offline
+1580,28-08-2025,pending,net banking,offline
+1581,07-12-2025,returned,UPI,offline
+1582,16-04-2025,returned,net banking,offline
+1583,18-04-2025,cancelled,UPI,online
+1584,22-01-2025,cancelled,credit card,online
+1585,20-03-2025,pending,UPI,online
+1586,22-04-2025,completed,cash,online
+1587,12-04-2025,pending,credit card,online
+1588,22-10-2025,returned,cash,offline
+1589,05-06-2025,pending,debit card,online
+1590,28-08-2025,returned,UPI,offline
+1591,25-03-2025,completed,cash,offline
+1592,18-04-2025,returned,credit card,online
+1593,29-03-2025,pending,debit card,online
+1594,23-08-2025,cancelled,UPI,online
+1595,19-01-2025,pending,UPI,online
+1596,25-12-2025,returned,credit card,online
+1597,17-11-2025,pending,credit card,offline
+1598,20-07-2025,pending,cash,online
+1599,19-05-2025,pending,credit card,offline
+1600,27-04-2025,cancelled,credit card,offline
+1601,10-01-2025,completed,debit card,offline
+1602,29-04-2025,cancelled,net banking,online
+1603,22-01-2025,pending,UPI,offline
+1604,22-11-2025,completed,debit card,online
+1605,17-11-2025,pending,cash,offline
+1606,09-10-2025,cancelled,credit card,online
+1607,21-09-2025,completed,net banking,online
+1608,30-09-2025,completed,credit card,online
+1609,10-09-2025,cancelled,net banking,online
+1610,21-10-2025,returned,credit card,offline
+1611,25-02-2025,completed,cash,offline
+1612,16-09-2025,returned,UPI,online
+1613,04-01-2025,returned,cash,online
+1614,24-10-2025,cancelled,credit card,online
+1615,10-08-2025,pending,cash,offline
+1616,02-01-2025,cancelled,net banking,offline
+1617,18-08-2025,completed,credit card,online
+1618,11-02-2025,cancelled,net banking,online
+1619,06-08-2025,returned,net banking,offline
+1620,11-01-2025,completed,credit card,offline
+1621,29-09-2025,pending,debit card,offline
+1622,21-05-2025,cancelled,debit card,offline
+1623,05-02-2025,completed,UPI,offline
+1624,13-09-2025,completed,UPI,offline
+1625,11-08-2025,returned,UPI,offline
+1626,22-02-2025,returned,credit card,online
+1627,29-10-2025,completed,UPI,online
+1628,14-11-2025,pending,credit card,online
+1629,14-06-2025,cancelled,cash,offline
+1630,26-02-2025,returned,UPI,offline
+1631,07-09-2025,cancelled,net banking,online
+1632,17-07-2025,pending,debit card,online
+1633,21-02-2025,completed,debit card,offline
+1634,10-04-2025,completed,cash,offline
+1635,22-03-2025,completed,net banking,offline
+1636,08-05-2025,returned,net banking,offline
+1637,01-04-2025,completed,credit card,offline
+1638,05-04-2025,pending,debit card,offline
+1639,25-01-2025,returned,net banking,offline
+1640,25-05-2025,completed,cash,offline
+1641,05-01-2025,pending,credit card,online
+1642,18-10-2025,cancelled,debit card,online
+1643,06-12-2025,returned,cash,online
+1644,26-10-2025,returned,net banking,offline
+1645,25-10-2025,cancelled,UPI,online
+1646,10-02-2025,returned,debit card,online
+1647,28-09-2025,returned,net banking,online
+1648,10-07-2025,completed,credit card,online
+1649,13-07-2025,returned,cash,offline
+1650,08-02-2025,pending,credit card,offline
+1651,20-12-2025,cancelled,UPI,online
+1652,22-06-2025,pending,UPI,offline
+1653,13-01-2025,returned,UPI,offline
+1654,11-04-2025,completed,UPI,online
+1655,13-04-2025,cancelled,credit card,offline
+1656,13-04-2025,pending,UPI,online
+1657,05-09-2025,pending,net banking,online
+1658,21-02-2025,pending,credit card,offline
+1659,05-12-2025,completed,net banking,offline
+1660,31-10-2025,returned,debit card,offline
+1661,03-04-2025,completed,net banking,offline
+1662,06-12-2025,cancelled,debit card,offline
+1663,06-05-2025,pending,debit card,online
+1664,28-05-2025,cancelled,net banking,online
+1665,12-06-2025,cancelled,UPI,online
+1666,08-09-2025,cancelled,cash,online
+1667,15-07-2025,cancelled,UPI,offline
+1668,23-04-2025,pending,debit card,offline
+1669,13-06-2025,cancelled,debit card,offline
+1670,11-09-2025,returned,debit card,offline
+1671,26-02-2025,completed,debit card,online
+1672,20-05-2025,returned,credit card,offline
+1673,20-09-2025,completed,net banking,offline
+1674,14-03-2025,cancelled,UPI,online
+1675,25-10-2025,pending,UPI,offline
+1676,01-06-2025,completed,cash,online
+1677,02-06-2025,completed,cash,offline
+1678,28-05-2025,completed,debit card,offline
+1679,08-11-2025,pending,debit card,online
+1680,20-03-2025,pending,UPI,online
+1681,11-08-2025,cancelled,UPI,online
+1682,22-01-2025,returned,credit card,offline
+1683,27-11-2025,pending,UPI,online
+1684,11-08-2025,pending,UPI,online
+1685,01-09-2025,completed,cash,offline
+1686,13-09-2025,cancelled,net banking,offline
+1687,29-10-2025,cancelled,net banking,online
+1688,29-08-2025,cancelled,cash,offline
+1689,28-02-2025,pending,cash,offline
+1690,23-08-2025,completed,net banking,online
+1691,19-02-2025,pending,cash,online
+1692,06-09-2025,completed,credit card,offline
+1693,06-01-2025,cancelled,UPI,offline
+1694,26-02-2025,cancelled,cash,offline
+1695,31-08-2025,completed,net banking,offline
+1696,28-11-2025,returned,net banking,online
+1697,06-07-2025,cancelled,cash,offline
+1698,06-09-2025,cancelled,net banking,offline
+1699,21-03-2025,cancelled,cash,online
+1700,13-11-2025,cancelled,credit card,online
+1701,20-06-2025,returned,credit card,online
+1702,11-01-2025,returned,debit card,offline
+1703,20-11-2025,cancelled,net banking,online
+1704,14-12-2025,returned,debit card,online
+1705,30-07-2025,returned,cash,offline
+1706,21-04-2025,returned,debit card,offline
+1707,22-06-2025,completed,cash,online
+1708,13-03-2025,returned,cash,online
+1709,09-08-2025,returned,UPI,offline
+1710,27-01-2025,completed,debit card,online
+1711,21-06-2025,cancelled,credit card,online
+1712,29-06-2025,completed,debit card,offline
+1713,17-12-2025,returned,cash,online
+1714,13-08-2025,completed,UPI,online
+1715,08-02-2025,returned,credit card,online
+1716,01-04-2025,cancelled,debit card,offline
+1717,14-12-2025,cancelled,net banking,online
+1718,30-12-2025,completed,cash,online
+1719,14-11-2025,cancelled,net banking,offline
+1720,21-02-2025,pending,credit card,online
+1721,20-10-2025,cancelled,debit card,online
+1722,24-07-2025,cancelled,UPI,offline
+1723,06-10-2025,completed,credit card,offline
+1724,04-04-2025,pending,debit card,offline
+1725,31-07-2025,completed,net banking,online
+1726,21-08-2025,pending,net banking,online
+1727,21-04-2025,completed,credit card,online
+1728,21-03-2025,pending,UPI,online
+1729,02-04-2025,returned,UPI,offline
+1730,03-07-2025,completed,cash,online
+1731,01-03-2025,cancelled,credit card,offline
+1732,28-07-2025,pending,UPI,offline
+1733,04-12-2025,cancelled,net banking,offline
+1734,02-07-2025,completed,debit card,offline
+1735,11-02-2025,pending,net banking,offline
+1736,16-12-2025,completed,debit card,offline
+1737,16-08-2025,completed,debit card,offline
+1738,08-01-2025,pending,UPI,online
+1739,15-12-2025,completed,UPI,offline
+1740,25-05-2025,completed,credit card,online
+1741,09-02-2025,returned,net banking,online
+1742,05-10-2025,pending,UPI,online
+1743,08-09-2025,returned,UPI,online
+1744,17-02-2025,returned,cash,offline
+1745,07-02-2025,pending,UPI,offline
+1746,22-04-2025,cancelled,debit card,online
+1747,26-10-2025,cancelled,credit card,online
+1748,31-01-2025,pending,credit card,offline
+1749,25-01-2025,pending,net banking,offline
+1750,15-08-2025,cancelled,debit card,offline
+1751,20-09-2025,returned,cash,offline
+1752,23-05-2025,cancelled,UPI,online
+1753,21-04-2025,cancelled,credit card,online
+1754,18-05-2025,pending,debit card,offline
+1755,05-02-2025,returned,cash,online
+1756,29-11-2025,cancelled,debit card,online
+1757,09-04-2025,completed,debit card,offline
+1758,26-11-2025,pending,credit card,offline
+1759,28-01-2025,pending,credit card,online
+1760,25-10-2025,pending,net banking,offline
+1761,21-01-2025,completed,debit card,offline
+1762,14-07-2025,pending,UPI,online
+1763,18-10-2025,completed,UPI,online
+1764,28-02-2025,completed,cash,online
+1765,16-12-2025,completed,net banking,online
+1766,10-05-2025,pending,cash,offline
+1767,26-04-2025,cancelled,debit card,offline
+1768,02-02-2025,returned,cash,online
+1769,08-12-2025,completed,net banking,online
+1770,11-04-2025,completed,cash,offline
+1771,01-11-2025,completed,credit card,offline
+1772,21-04-2025,cancelled,cash,online
+1773,12-08-2025,cancelled,net banking,online
+1774,27-11-2025,completed,credit card,offline
+1775,16-03-2025,completed,cash,online
+1776,30-11-2025,completed,credit card,offline
+1777,11-02-2025,returned,debit card,online
+1778,29-09-2025,pending,cash,offline
+1779,31-07-2025,cancelled,debit card,online
+1780,15-09-2025,returned,net banking,offline
+1781,16-06-2025,completed,cash,online
+1782,01-11-2025,cancelled,UPI,online
+1783,13-04-2025,cancelled,credit card,offline
+1784,26-08-2025,pending,UPI,offline
+1785,10-03-2025,pending,net banking,online
+1786,13-05-2025,cancelled,UPI,online
+1787,18-07-2025,returned,UPI,online
+1788,20-12-2025,pending,cash,online
+1789,20-10-2025,pending,cash,offline
+1790,24-02-2025,returned,debit card,online
+1791,10-05-2025,pending,UPI,offline
+1792,08-12-2025,cancelled,UPI,online
+1793,06-09-2025,completed,debit card,offline
+1794,03-04-2025,cancelled,UPI,online
+1795,26-02-2025,returned,net banking,offline
+1796,27-07-2025,pending,net banking,offline
+1797,11-09-2025,cancelled,credit card,offline
+1798,20-02-2025,cancelled,cash,online
+1799,14-06-2025,cancelled,net banking,online
+1800,02-09-2025,returned,cash,online
+1801,08-08-2025,completed,credit card,offline
+1802,11-10-2025,completed,net banking,online
+1803,21-05-2025,returned,cash,offline
+1804,18-09-2025,completed,UPI,offline
+1805,16-03-2025,pending,UPI,online
+1806,13-10-2025,returned,debit card,offline
+1807,03-01-2025,returned,credit card,online
+1808,02-11-2025,cancelled,net banking,online
+1809,08-06-2025,completed,cash,offline
+1810,26-06-2025,cancelled,debit card,offline
+1811,04-08-2025,pending,UPI,offline
+1812,12-02-2025,returned,net banking,offline
+1813,14-09-2025,pending,debit card,online
+1814,09-11-2025,pending,net banking,offline
+1815,24-01-2025,cancelled,UPI,offline
+1816,28-09-2025,cancelled,cash,online
+1817,04-08-2025,returned,UPI,online
+1818,31-08-2025,pending,credit card,offline
+1819,21-07-2025,pending,credit card,offline
+1820,30-06-2025,returned,cash,online
+1821,08-02-2025,returned,cash,offline
+1822,14-05-2025,pending,UPI,online
+1823,07-01-2025,completed,net banking,offline
+1824,14-06-2025,cancelled,cash,online
+1825,05-03-2025,pending,net banking,online
+1826,18-10-2025,cancelled,net banking,offline
+1827,14-07-2025,pending,net banking,offline
+1828,09-02-2025,cancelled,cash,offline
+1829,09-03-2025,returned,credit card,online
+1830,01-01-2025,returned,credit card,offline
+1831,17-02-2025,cancelled,UPI,offline
+1832,23-01-2025,pending,UPI,online
+1833,24-07-2025,returned,debit card,offline
+1834,17-01-2025,returned,debit card,offline
+1835,02-09-2025,completed,UPI,offline
+1836,12-05-2025,pending,UPI,offline
+1837,06-05-2025,completed,UPI,offline
+1838,03-02-2025,pending,credit card,offline
+1839,09-03-2025,returned,credit card,online
+1840,25-05-2025,returned,net banking,offline
+1841,17-06-2025,cancelled,cash,offline
+1842,13-06-2025,returned,net banking,offline
+1843,18-11-2025,completed,UPI,offline
+1844,16-10-2025,pending,debit card,online
+1845,16-06-2025,cancelled,net banking,offline
+1846,31-05-2025,cancelled,debit card,offline
+1847,25-09-2025,completed,net banking,online
+1848,01-03-2025,pending,UPI,online
+1849,29-10-2025,pending,UPI,online
+1850,14-11-2025,cancelled,credit card,online
+1851,27-09-2025,completed,UPI,online
+1852,18-11-2025,pending,UPI,online
+1853,04-11-2025,pending,debit card,online
+1854,06-06-2025,pending,UPI,offline
+1855,31-10-2025,cancelled,debit card,offline
+1856,08-06-2025,cancelled,UPI,offline
+1857,04-09-2025,pending,UPI,offline
+1858,17-02-2025,pending,net banking,offline
+1859,24-03-2025,cancelled,debit card,offline
+1860,08-10-2025,pending,cash,online
+1861,04-07-2025,completed,UPI,online
+1862,15-04-2025,pending,debit card,online
+1863,30-07-2025,cancelled,UPI,offline
+1864,08-09-2025,pending,UPI,offline
+1865,23-02-2025,cancelled,UPI,offline
+1866,14-07-2025,cancelled,cash,online
+1867,02-03-2025,completed,UPI,online
+1868,29-01-2025,completed,UPI,offline
+1869,26-01-2025,completed,cash,offline
+1870,27-10-2025,pending,debit card,online
+1871,02-08-2025,pending,cash,offline
+1872,12-05-2025,cancelled,cash,offline
+1873,02-04-2025,returned,cash,online
+1874,23-10-2025,pending,debit card,offline
+1875,14-02-2025,returned,net banking,online
+1876,27-05-2025,pending,UPI,offline
+1877,28-12-2025,pending,cash,online
+1878,10-11-2025,completed,UPI,online
+1879,09-11-2025,returned,debit card,online
+1880,21-05-2025,pending,cash,offline
+1881,15-02-2025,pending,credit card,online
+1882,10-05-2025,completed,credit card,offline
+1883,22-12-2025,cancelled,UPI,offline
+1884,22-07-2025,completed,cash,offline
+1885,03-07-2025,completed,cash,offline
+1886,02-04-2025,cancelled,UPI,offline
+1887,21-06-2025,cancelled,credit card,offline
+1888,19-12-2025,pending,net banking,offline
+1889,16-02-2025,pending,UPI,online
+1890,15-04-2025,cancelled,debit card,online
+1891,15-03-2025,returned,UPI,online
+1892,03-05-2025,completed,debit card,online
+1893,19-02-2025,pending,debit card,offline
+1894,15-08-2025,pending,UPI,online
+1895,03-12-2025,completed,UPI,online
+1896,23-04-2025,pending,cash,online
+1897,18-11-2025,returned,debit card,online
+1898,29-11-2025,pending,net banking,offline
+1899,15-06-2025,returned,debit card,offline
+1900,10-04-2025,pending,UPI,offline
+1901,21-04-2025,cancelled,net banking,offline
+1902,19-05-2025,pending,debit card,online
+1903,14-07-2025,pending,UPI,online
+1904,16-11-2025,returned,credit card,online
+1905,26-06-2025,cancelled,credit card,offline
+1906,18-07-2025,returned,cash,online
+1907,10-02-2025,completed,net banking,online
+1908,21-01-2025,pending,cash,online
+1909,06-05-2025,completed,UPI,online
+1910,17-03-2025,pending,net banking,offline
+1911,22-05-2025,completed,UPI,online
+1912,05-03-2025,cancelled,debit card,online
+1913,01-08-2025,pending,debit card,offline
+1914,13-10-2025,cancelled,debit card,online
+1915,12-04-2025,cancelled,UPI,offline
+1916,18-09-2025,pending,credit card,online
+1917,15-08-2025,returned,net banking,offline
+1918,22-02-2025,cancelled,cash,offline
+1919,04-04-2025,returned,UPI,offline
+1920,12-01-2025,pending,net banking,online
+1921,17-10-2025,cancelled,cash,online
+1922,30-11-2025,completed,cash,online
+1923,14-02-2025,returned,debit card,offline
+1924,11-05-2025,pending,debit card,offline
+1925,08-08-2025,pending,net banking,online
+1926,05-01-2025,completed,debit card,online
+1927,02-02-2025,pending,net banking,online
+1928,25-05-2025,completed,cash,online
+1929,27-03-2025,completed,credit card,offline
+1930,19-09-2025,completed,credit card,offline
+1931,12-03-2025,pending,cash,online
+1932,28-02-2025,returned,cash,online
+1933,12-01-2025,completed,net banking,online
+1934,13-10-2025,pending,UPI,offline
+1935,17-01-2025,cancelled,debit card,offline
+1936,26-09-2025,completed,net banking,offline
+1937,16-10-2025,pending,cash,online
+1938,23-01-2025,cancelled,credit card,online
+1939,04-09-2025,cancelled,net banking,offline
+1940,24-04-2025,cancelled,net banking,offline
+1941,27-06-2025,pending,UPI,online
+1942,03-06-2025,cancelled,UPI,online
+1943,13-11-2025,completed,credit card,offline
+1944,17-04-2025,pending,UPI,online
+1945,31-03-2025,completed,debit card,online
+1946,22-09-2025,completed,debit card,offline
+1947,25-06-2025,pending,credit card,offline
+1948,23-07-2025,cancelled,cash,online
+1949,20-04-2025,pending,cash,online
+1950,26-02-2025,cancelled,debit card,online
+1951,02-07-2025,returned,cash,offline
+1952,21-08-2025,returned,net banking,offline
+1953,03-07-2025,cancelled,credit card,offline
+1954,29-10-2025,pending,cash,online
+1955,23-08-2025,returned,debit card,online
+1956,19-03-2025,returned,cash,offline
+1957,19-01-2025,pending,cash,offline
+1958,01-09-2025,returned,net banking,online
+1959,08-02-2025,pending,UPI,online
+1960,17-01-2025,pending,net banking,offline
+1961,11-01-2025,cancelled,credit card,offline
+1962,04-05-2025,pending,net banking,offline
+1963,12-10-2025,returned,credit card,online
+1964,27-04-2025,returned,UPI,offline
+1965,17-11-2025,cancelled,debit card,online
+1966,05-10-2025,cancelled,cash,offline
+1967,25-03-2025,returned,UPI,offline
+1968,02-02-2025,completed,credit card,online
+1969,28-02-2025,completed,UPI,online
+1970,07-08-2025,completed,UPI,offline
+1971,11-01-2025,returned,net banking,online
+1972,24-10-2025,cancelled,cash,online
+1973,25-12-2025,returned,credit card,offline
+1974,21-04-2025,completed,debit card,offline
+1975,14-03-2025,pending,credit card,online
+1976,05-04-2025,pending,net banking,offline
+1977,12-09-2025,cancelled,net banking,offline
+1978,13-05-2025,completed,cash,offline
+1979,19-11-2025,pending,cash,offline
+1980,26-10-2025,completed,net banking,online
+1981,10-01-2025,returned,net banking,offline
+1982,29-09-2025,returned,debit card,online
+1983,01-01-2025,returned,cash,online
+1984,23-07-2025,returned,debit card,offline
+1985,03-12-2025,pending,net banking,offline
+1986,16-10-2025,completed,cash,offline
+1987,29-10-2025,pending,UPI,online
+1988,30-05-2025,pending,UPI,online
+1989,04-10-2025,pending,cash,offline
+1990,28-09-2025,cancelled,UPI,online
+1991,25-12-2025,cancelled,UPI,offline
+1992,17-01-2025,returned,credit card,online
+1993,02-01-2025,completed,credit card,online
+1994,05-05-2025,completed,credit card,online
+1995,11-10-2025,pending,debit card,online
+1996,16-05-2025,pending,net banking,offline
+1997,30-01-2025,pending,cash,online
+1998,23-09-2025,cancelled,cash,offline
+1999,08-03-2025,pending,net banking,offline
+2000,19-04-2025,cancelled,UPI,offline

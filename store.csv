@@ -1,0 +1,201 @@
+﻿store_ID,Store_Name,Store_Type,Store_City,store_state,Store_Region
+3001,Store A,Standalone,Denver,Colorado,North
+3002,Store B,Mall,Lake Worth,Florida,West
+3003,Store C,Mall,Tampa,Florida,East
+3004,Store C,Online,Knoxville,Tennessee,West
+3005,Store C,Online,Syracuse,New York,North
+3006,Store C,Online,Fort Lauderdale,Florida,South
+3007,Store D,Mall,New Orleans,Louisiana,East
+3008,Store B,Standalone,Kingsport,Tennessee,East
+3009,Store B,Standalone,Lafayette,Louisiana,East
+3010,Store A,Standalone,Salt Lake City,Utah,East
+3011,Store B,Standalone,Norfolk,Virginia,South
+3012,Store D,Mall,Denver,Colorado,East
+3013,Store D,Standalone,San Diego,California,South
+3014,Store C,Mall,Lubbock,Texas,South
+3015,Store D,Online,Albuquerque,New Mexico,East
+3016,Store B,Standalone,Naples,Florida,South
+3017,Store A,Online,Huntington,West Virginia,East
+3018,Store B,Mall,Saint Louis,Missouri,South
+3019,Store B,Online,Salt Lake City,Utah,South
+3020,Store D,Standalone,Birmingham,Alabama,North
+3021,Store B,Online,Orlando,Florida,East
+3022,Store B,Mall,Billings,Montana,South
+3023,Store C,Online,Salt Lake City,Utah,South
+3024,Store A,Online,New York City,New York,East
+3025,Store B,Online,New York City,New York,West
+3026,Store A,Mall,San Diego,California,North
+3027,Store A,Mall,Raleigh,North Carolina,North
+3028,Store D,Online,Richmond,Virginia,West
+3029,Store A,Mall,San Antonio,Texas,West
+3030,Store B,Standalone,Memphis,Tennessee,East
+3031,Store B,Standalone,Lubbock,Texas,North
+3032,Store A,Online,Pocatello,Idaho,East
+3033,Store D,Standalone,Worcester,Massachusetts,East
+3034,Store D,Online,Virginia Beach,Virginia,West
+3035,Store D,Standalone,New York City,New York,East
+3036,Store A,Standalone,Charleston,South Carolina,West
+3037,Store C,Standalone,Portsmouth,New Hampshire,South
+3038,Store B,Standalone,Milwaukee,Wisconsin,North
+3039,Store A,Online,New York City,New York,East
+3040,Store D,Mall,Baltimore,Maryland,North
+3041,Store D,Standalone,Springfield,Massachusetts,South
+3042,Store A,Mall,Detroit,Michigan,South
+3043,Store C,Online,Mesa,Arizona,East
+3044,Store B,Mall,Milwaukee,Wisconsin,East
+3045,Store D,Standalone,Kansas City,Missouri,North
+3046,Store D,Online,Glendale,California,South
+3047,Store D,Online,Salt Lake City,Utah,West
+3048,Store C,Mall,Saint Paul,Minnesota,East
+3049,Store C,Online,San Antonio,Texas,East
+3050,Store D,Mall,Springfield,Ohio,South
+3051,Store A,Online,Minneapolis,Minnesota,South
+3052,Store A,Online,San Luis Obispo,California,South
+3053,Store B,Standalone,Hartford,Connecticut,South
+3054,Store C,Standalone,New Orleans,Louisiana,South
+3055,Store C,Standalone,Baton Rouge,Louisiana,North
+3056,Store A,Online,Long Beach,California,North
+3057,Store D,Online,Waterbury,Connecticut,East
+3058,Store B,Standalone,Homestead,Florida,South
+3059,Store C,Online,Baton Rouge,Louisiana,East
+3060,Store D,Mall,Chesapeake,Virginia,West
+3061,Store A,Standalone,Norwalk,Connecticut,South
+3062,Store C,Mall,Santa Ana,California,West
+3063,Store A,Standalone,Herndon,Virginia,East
+3064,Store B,Mall,Mobile,Alabama,South
+3065,Store D,Standalone,Des Moines,Iowa,East
+3066,Store B,Online,Pasadena,California,East
+3067,Store B,Mall,Cleveland,Ohio,West
+3068,Store C,Mall,Vancouver,Washington,North
+3069,Store B,Mall,Indianapolis,Indiana,South
+3070,Store D,Mall,Dallas,Texas,North
+3071,Store A,Online,Philadelphia,Pennsylvania,South
+3072,Store C,Standalone,New Orleans,Louisiana,East
+3073,Store D,Standalone,Charlotte,North Carolina,West
+3074,Store C,Standalone,Scranton,Pennsylvania,South
+3075,Store A,Mall,North Little Rock,Arkansas,South
+3076,Store B,Mall,Saint Petersburg,Florida,West
+3077,Store C,Online,Boulder,Colorado,East
+3078,Store A,Mall,Springfield,Illinois,North
+3079,Store A,Standalone,Miami,Florida,East
+3080,Store A,Standalone,Atlanta,Georgia,South
+3081,Store C,Online,Cincinnati,Ohio,East
+3082,Store A,Standalone,Miami,Florida,South
+3083,Store A,Mall,San Francisco,California,North
+3084,Store A,Online,Miami,Florida,West
+3085,Store A,Online,Salt Lake City,Utah,East
+3086,Store D,Online,Boise,Idaho,East
+3087,Store B,Standalone,Jackson,Mississippi,East
+3088,Store D,Standalone,Fresno,California,East
+3089,Store B,Online,Watertown,Massachusetts,West
+3090,Store A,Standalone,New Orleans,Louisiana,East
+3091,Store D,Standalone,Washington,District of Columbia,West
+3092,Store D,Standalone,Washington,District of Columbia,South
+3093,Store D,Online,Spokane,Washington,West
+3094,Store A,Mall,Washington,District of Columbia,West
+3095,Store C,Standalone,Concord,California,South
+3096,Store D,Standalone,New York City,New York,East
+3097,Store D,Online,Louisville,Kentucky,West
+3098,Store A,Standalone,Seattle,Washington,South
+3099,Store C,Mall,Augusta,Georgia,East
+3100,Store B,Standalone,Odessa,Texas,South
+3101,Store B,Standalone,San Diego,California,North
+3102,Store B,Mall,Charlottesville,Virginia,South
+3103,Store B,Mall,San Antonio,Texas,East
+3104,Store A,Mall,Roanoke,Virginia,South
+3105,Store C,Standalone,Irving,Texas,South
+3106,Store C,Online,Richmond,Virginia,West
+3107,Store D,Standalone,Philadelphia,Pennsylvania,East
+3108,Store C,Mall,Saint Louis,Missouri,South
+3109,Store B,Online,New York City,New York,West
+3110,Store D,Standalone,Riverside,California,West
+3111,Store D,Online,Chattanooga,Tennessee,North
+3112,Store D,Online,Phoenix,Arizona,East
+3113,Store A,Mall,Chicago,Illinois,North
+3114,Store B,Mall,Louisville,Kentucky,South
+3115,Store D,Online,Lake Charles,Louisiana,North
+3116,Store A,Standalone,Los Angeles,California,South
+3117,Store C,Online,Columbus,Georgia,East
+3118,Store A,Online,Pittsburgh,Pennsylvania,West
+3119,Store D,Online,Columbus,Georgia,East
+3120,Store A,Mall,Rochester,New York,West
+3121,Store B,Mall,Denver,Colorado,North
+3122,Store D,Mall,Chicago,Illinois,West
+3123,Store B,Online,Sacramento,California,North
+3124,Store D,Mall,Pasadena,California,North
+3125,Store C,Mall,Billings,Montana,North
+3126,Store B,Standalone,Asheville,North Carolina,West
+3127,Store D,Mall,Norfolk,Virginia,East
+3128,Store C,Online,Fort Worth,Texas,East
+3129,Store D,Online,Omaha,Nebraska,East
+3130,Store A,Mall,Washington,District of Columbia,South
+3131,Store B,Online,Santa Ana,California,North
+3132,Store A,Standalone,Homestead,Florida,East
+3133,Store B,Mall,San Antonio,Texas,West
+3134,Store B,Mall,Lincoln,Nebraska,West
+3135,Store C,Standalone,Huntington,West Virginia,South
+3136,Store C,Mall,Oakland,California,West
+3137,Store B,Standalone,Des Moines,Iowa,South
+3138,Store D,Standalone,Reading,Pennsylvania,West
+3139,Store D,Online,Charlotte,North Carolina,East
+3140,Store C,Mall,Fort Wayne,Indiana,South
+3141,Store C,Standalone,Arlington,Virginia,East
+3142,Store A,Standalone,Honolulu,Hawaii,East
+3143,Store A,Mall,Lubbock,Texas,East
+3144,Store B,Mall,Jamaica,New York,North
+3145,Store D,Mall,Norfolk,Virginia,North
+3146,Store C,Online,Cleveland,Ohio,North
+3147,Store A,Online,Whittier,California,East
+3148,Store A,Mall,Boise,Idaho,East
+3149,Store B,Mall,Gatesville,Texas,West
+3150,Store C,Mall,Albany,New York,East
+3151,Store C,Online,Worcester,Massachusetts,South
+3152,Store C,Mall,Washington,District of Columbia,West
+3153,Store B,Standalone,Des Moines,Iowa,South
+3154,Store C,Online,Houston,Texas,South
+3155,Store D,Online,Kansas City,Missouri,South
+3156,Store B,Mall,Chandler,Arizona,North
+3157,Store D,Online,Peoria,Illinois,East
+3158,Store C,Mall,Pittsburgh,Pennsylvania,North
+3159,Store B,Online,San Diego,California,South
+3160,Store D,Online,Minneapolis,Minnesota,South
+3161,Store C,Online,Warren,Michigan,North
+3162,Store A,Mall,Baton Rouge,Louisiana,East
+3163,Store A,Online,Las Cruces,New Mexico,South
+3164,Store D,Standalone,Alexandria,Louisiana,West
+3165,Store B,Mall,Muskegon,Michigan,South
+3166,Store A,Mall,Washington,District of Columbia,East
+3167,Store B,Online,New York City,New York,West
+3168,Store B,Online,Topeka,Kansas,North
+3169,Store D,Mall,Las Vegas,Nevada,West
+3170,Store D,Online,Los Angeles,California,East
+3171,Store C,Online,Naperville,Illinois,West
+3172,Store B,Standalone,New Bedford,Massachusetts,East
+3173,Store C,Mall,Durham,North Carolina,West
+3174,Store D,Standalone,Washington,District of Columbia,East
+3175,Store C,Mall,Baltimore,Maryland,South
+3176,Store C,Online,Denver,Colorado,South
+3177,Store B,Mall,Little Rock,Arkansas,West
+3178,Store A,Mall,Birmingham,Alabama,South
+3179,Store B,Mall,Fredericksburg,Virginia,West
+3180,Store D,Mall,Amarillo,Texas,West
+3181,Store D,Mall,San Francisco,California,West
+3182,Store C,Online,Denver,Colorado,West
+3183,Store D,Mall,San Antonio,Texas,West
+3184,Store B,Standalone,Amarillo,Texas,North
+3185,Store D,Standalone,Naples,Florida,South
+3186,Store A,Mall,Boise,Idaho,South
+3187,Store C,Standalone,Washington,District of Columbia,East
+3188,Store C,Mall,Lincoln,Nebraska,West
+3189,Store C,Standalone,Miami,Florida,West
+3190,Store D,Mall,Chicago,Illinois,South
+3191,Store C,Mall,Carol Stream,Illinois,East
+3192,Store C,Mall,El Paso,Texas,East
+3193,Store B,Mall,Los Angeles,California,West
+3194,Store D,Mall,Washington,District of Columbia,West
+3195,Store A,Standalone,Albany,New York,West
+3196,Store B,Mall,Bismarck,North Dakota,South
+3197,Store A,Online,Stamford,Connecticut,North
+3198,Store C,Mall,Bronx,New York,North
+3199,Store C,Online,Houston,Texas,South
+3200,Store B,Online,Philadelphia,Pennsylvania,West

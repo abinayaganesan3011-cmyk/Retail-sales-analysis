@@ -1,0 +1,501 @@
+﻿Customer_ID,Customer_name,gender,Age,Customer_Segment,customer city,customer state
+501,Billy Hyndman,Male,38,Premium,Erie,Pennsylvania
+502,Boniface Herrieven,Male,33,Wholesale,Saint Paul,Minnesota
+503,Vladamir Lorrimer,Male,51,Premium,Kansas City,Kansas
+504,Ursa Ofen,Female,52,Premium,Pasadena,California
+505,Kettie Allardyce,Female,39,Premium,Topeka,Kansas
+506,Justus Frid,Male,22,Regular,Nashville,Tennessee
+507,Deedee Witherop,Female,30,Premium,Madison,Wisconsin
+508,Joycelin Ellington,Female,37,Wholesale,Boston,Massachusetts
+509,Sloane Beavors,Male,51,Premium,Lynchburg,Virginia
+510,Aluino Channing,Male,63,Regular,Orlando,Florida
+511,Carley Gorler,Female,57,Regular,Boulder,Colorado
+512,Audrye Tilbey,Female,26,Premium,Bryan,Texas
+513,Lester Larmour,Male,47,Premium,Albuquerque,New Mexico
+514,Pansy Scullard,Female,51,Premium,Albuquerque,New Mexico
+515,Nealson Ramsell,Male,34,Regular,Detroit,Michigan
+516,Rania Angelini,Bigender,33,Wholesale,Fresno,California
+517,Cornela Naldrett,Female,35,Premium,Indianapolis,Indiana
+518,Dorian Weekes,Polygender,18,Regular,Mobile,Alabama
+519,Pia Higounet,Female,63,Regular,Cleveland,Ohio
+520,Aubrey Bish,Male,65,Regular,Saint Paul,Minnesota
+521,Elianore Esmond,Female,53,Wholesale,Las Vegas,Nevada
+522,Lark Plail,Polygender,20,Wholesale,Gatesville,Texas
+523,Ofella Yorath,Female,26,Regular,Charlotte,North Carolina
+524,Gunter Brophy,Male,51,Wholesale,Shawnee Mission,Kansas
+525,Michel Bursnell,Female,63,Premium,Denver,Colorado
+526,Carmelina Gutierrez,Female,58,Wholesale,Houston,Texas
+527,Cecilla Bauduccio,Female,29,Premium,Newport News,Virginia
+528,Finlay Blind,Male,23,Regular,Birmingham,Alabama
+529,Deeanne Landers,Female,53,Wholesale,Akron,Ohio
+530,Bear Atcock,Male,22,Premium,Tucson,Arizona
+531,Kelli Maggill'Andreis,Female,62,Premium,Philadelphia,Pennsylvania
+532,Frederik McDonand,Male,51,Premium,Galveston,Texas
+533,Layton Rolfe,Male,18,Wholesale,Tuscaloosa,Alabama
+534,Torry Blunkett,Male,46,Regular,Spring Hill,Florida
+535,Charil Ayshford,Agender,30,Regular,Lubbock,Texas
+536,Ban Partleton,Male,34,Wholesale,Flint,Michigan
+537,Salvatore Rubinovici,Male,31,Premium,Grand Junction,Colorado
+538,Jillian Mithon,Female,54,Regular,El Paso,Texas
+539,Jenica Renachowski,Female,30,Premium,Bakersfield,California
+540,Gilli Abrahmson,Female,35,Wholesale,Fort Smith,Arkansas
+541,Buck McCleary,Male,18,Premium,Pittsburgh,Pennsylvania
+542,Kassie Hubbucke,Female,62,Regular,Meridian,Mississippi
+543,Bryce Camamill,Male,30,Premium,San Jose,California
+544,Culley Gritsaev,Male,64,Premium,Washington,District of Columbia
+545,Abagael Archbell,Female,54,Premium,Johnstown,Pennsylvania
+546,Shelagh Mazzei,Female,42,Wholesale,Wichita,Kansas
+547,Sisely Astill,Female,33,Premium,Saint Louis,Missouri
+548,Judon Campione,Male,63,Regular,West Hartford,Connecticut
+549,Frances Shillabeer,Female,44,Wholesale,Santa Monica,California
+550,Hedy Duesbury,Female,33,Wholesale,Biloxi,Mississippi
+551,Mateo Adderley,Male,20,Premium,Gilbert,Arizona
+552,Shanda Simenot,Female,48,Regular,Charlotte,North Carolina
+553,Etienne MacGall,Male,48,Premium,Trenton,New Jersey
+554,Aksel Yesinin,Male,35,Regular,Dulles,Virginia
+555,Finlay Cassimer,Male,61,Wholesale,San Jose,California
+556,Killian Acres,Male,24,Regular,Jackson,Mississippi
+557,Cari Sidle,Female,52,Premium,Detroit,Michigan
+558,Berty Clethro,Polygender,47,Premium,Arlington,Texas
+559,Dunc Blazevic,Male,31,Wholesale,Birmingham,Alabama
+560,Linnea Gerkens,Non-binary,24,Wholesale,Inglewood,California
+561,Niki Scotchbrook,Male,59,Premium,Minneapolis,Minnesota
+562,Allianora Jeffers,Female,26,Premium,Whittier,California
+563,Jeana Muxworthy,Female,37,Premium,Ogden,Utah
+564,Erin De Caville,Agender,33,Premium,Albany,New York
+565,Mimi Stockney,Female,64,Regular,Spring,Texas
+566,Brandice Frossell,Female,59,Wholesale,Washington,District of Columbia
+567,Coleman Beamiss,Male,61,Wholesale,Arlington,Virginia
+568,Darryl Taill,Male,20,Wholesale,Shreveport,Louisiana
+569,Welbie Lornsen,Male,64,Premium,Fort Worth,Texas
+570,Hervey Dormand,Male,58,Regular,Louisville,Kentucky
+571,Massimo Porker,Male,64,Regular,Washington,District of Columbia
+572,Desirae MacAdam,Female,59,Premium,Longview,Texas
+573,Marjie Antosch,Female,39,Premium,Pasadena,California
+574,Esmeralda Greenside,Female,19,Regular,Cincinnati,Ohio
+575,Cornie Croisdall,Female,57,Regular,Cedar Rapids,Iowa
+576,Talbert Urvoy,Male,25,Wholesale,Houston,Texas
+577,Fedora Dewsbury,Female,43,Wholesale,Las Vegas,Nevada
+578,Nonna Maddicks,Female,57,Premium,New York City,New York
+579,Morly Churchard,Male,53,Premium,Erie,Pennsylvania
+580,Emelita Gobeau,Polygender,20,Wholesale,Great Neck,New York
+581,Toddy Condict,Male,49,Wholesale,Dallas,Texas
+582,Violet Morsley,Female,32,Regular,Champaign,Illinois
+583,Odella Pettifor,Female,65,Wholesale,Louisville,Kentucky
+584,Marietta Caughtry,Male,35,Regular,Los Angeles,California
+585,Cece Cropton,Male,44,Regular,Tulsa,Oklahoma
+586,Neill Leadbeater,Male,54,Premium,North Little Rock,Arkansas
+587,Tobiah Miskin,Male,20,Wholesale,Odessa,Texas
+588,Talbert Humberstone,Male,57,Premium,El Paso,Texas
+589,Dyanna Ferguson,Female,53,Regular,Alexandria,Louisiana
+590,Babbie Strugnell,Agender,58,Regular,Biloxi,Mississippi
+591,Sam Faltin,Non-binary,28,Wholesale,Rockville,Maryland
+592,Johann Thomasen,Male,32,Premium,Charlotte,North Carolina
+593,Valentina Arsnell,Female,64,Regular,Tulsa,Oklahoma
+594,Trip Jeannon,Male,58,Regular,Prescott,Arizona
+595,Aldon Murrigan,Male,61,Premium,Jefferson City,Missouri
+596,Justin Favel,Male,21,Premium,Ogden,Utah
+597,Danna Blunderfield,Female,27,Regular,Washington,District of Columbia
+598,Dorotea Vivyan,Female,24,Premium,Naples,Florida
+599,Gratia Murrock,Female,19,Wholesale,Henderson,Nevada
+600,Marlon Northing,Male,26,Wholesale,Levittown,Pennsylvania
+601,Pen Tillot,Female,64,Wholesale,Chicago,Illinois
+602,Dan Holleran,Male,58,Wholesale,Houston,Texas
+603,Alfie Mullord,Female,56,Premium,Huntsville,Alabama
+604,Jacki Stoker,Bigender,23,Wholesale,Idaho Falls,Idaho
+605,Bondie Ovanesian,Male,46,Premium,Concord,California
+606,Valida Lovering,Female,38,Premium,Brooklyn,New York
+607,Alayne Argile,Female,62,Wholesale,Philadelphia,Pennsylvania
+608,Petey Coolican,Male,36,Wholesale,Tuscaloosa,Alabama
+609,Ethan Cotelard,Male,20,Wholesale,Akron,Ohio
+610,Willem Jennemann,Male,62,Wholesale,Minneapolis,Minnesota
+611,Ines Glavias,Genderfluid,22,Wholesale,Fort Lauderdale,Florida
+612,Marcelo Bischop,Male,27,Wholesale,Scottsdale,Arizona
+613,Ethyl Reiners,Female,35,Wholesale,New Bedford,Massachusetts
+614,Hobey Scallon,Male,25,Regular,Washington,District of Columbia
+615,Chantalle Towsie,Female,25,Premium,Columbus,Ohio
+616,Keen Kiddell,Male,25,Regular,Trenton,New Jersey
+617,Ardisj Darey,Genderqueer,57,Premium,Arlington,Texas
+618,Boot Crush,Male,41,Regular,New Haven,Connecticut
+619,Trevor Bilyard,Male,37,Premium,Manchester,New Hampshire
+620,Ferguson Webborn,Male,27,Regular,Kansas City,Missouri
+621,Felecia Fonso,Female,23,Premium,Atlanta,Georgia
+622,Lula Chaffey,Female,35,Premium,Atlanta,Georgia
+623,Bale Nicholls,Male,30,Wholesale,North Las Vegas,Nevada
+624,Elmer Snowdon,Male,54,Regular,Lima,Ohio
+625,Tally Romney,Female,18,Wholesale,Anaheim,California
+626,Sonya Bignall,Agender,24,Regular,Silver Spring,Maryland
+627,Didi Harland,Female,35,Premium,Bismarck,North Dakota
+628,Nataniel Payler,Male,18,Premium,Newark,Delaware
+629,Orbadiah Esser,Genderqueer,29,Regular,Stockton,California
+630,Michele Antal,Male,53,Regular,Mobile,Alabama
+631,Bibbie Dwire,Female,30,Wholesale,El Paso,Texas
+632,Xerxes Beaman,Male,28,Regular,Southfield,Michigan
+633,Klaus Tolworth,Bigender,57,Regular,Hagerstown,Maryland
+634,Janel Jacke,Female,33,Wholesale,Ann Arbor,Michigan
+635,Elianore Spenceley,Female,27,Regular,Minneapolis,Minnesota
+636,Joscelin Imloch,Female,39,Premium,Pensacola,Florida
+637,Marji Rutter,Female,42,Wholesale,Paterson,New Jersey
+638,Kai Geipel,Female,63,Premium,Los Angeles,California
+639,Lazarus Ritchley,Male,36,Regular,Amarillo,Texas
+640,Hendrik Grassi,Male,40,Premium,Roanoke,Virginia
+641,Ara Gonnard,Male,60,Regular,Riverside,California
+642,Tomasine Tewelson,Female,33,Premium,Corpus Christi,Texas
+643,Lela Gerardin,Female,21,Wholesale,Migrate,Kentucky
+644,Josie Sibbert,Female,18,Wholesale,Lincoln,Nebraska
+645,Codie Rheaume,Male,60,Premium,Fargo,North Dakota
+646,Powell Kittredge,Male,31,Wholesale,San Jose,California
+647,Arabele Dobeson,Female,31,Regular,Houston,Texas
+648,Roscoe Hercules,Male,51,Wholesale,Hollywood,Florida
+649,Andy Hoffmann,Male,23,Premium,Honolulu,Hawaii
+650,Felicio Deverell,Male,27,Regular,Hamilton,Ohio
+651,Blinni Lechmere,Female,33,Regular,San Jose,California
+652,Ezekiel Hartill,Male,64,Wholesale,El Paso,Texas
+653,Hoyt Bowdery,Male,54,Regular,Milwaukee,Wisconsin
+654,Nickolai Hughes,Male,41,Regular,Ventura,California
+655,Jannel Gilhool,Female,20,Regular,Frederick,Maryland
+656,Der McJerrow,Male,29,Regular,Manchester,New Hampshire
+657,Ki MacNamee,Female,61,Wholesale,New Orleans,Louisiana
+658,Leisha Coope,Female,50,Regular,San Antonio,Texas
+659,Ricca Philipps,Female,51,Regular,Tacoma,Washington
+660,Lanita Dreye,Female,21,Premium,Arlington,Virginia
+661,Odille Huton,Female,36,Premium,Lima,Ohio
+662,Ulrike Schleswig-Holstein,Female,47,Premium,Richmond,Virginia
+663,Merlina Quarmby,Female,36,Premium,Denver,Colorado
+664,Durant Philson,Male,57,Regular,Augusta,Georgia
+665,Zack Haugg,Male,63,Wholesale,New York City,New York
+666,Farris Seppey,Male,42,Wholesale,Louisville,Kentucky
+667,Jasmin Christoffe,Female,63,Wholesale,Anniston,Alabama
+668,Constantia Albiston,Female,54,Regular,Allentown,Pennsylvania
+669,Vidovik McKinlay,Male,41,Regular,Odessa,Texas
+670,Maddi Drain,Female,36,Premium,Columbus,Georgia
+671,Johnny Kondratyuk,Male,43,Regular,Manassas,Virginia
+672,Conrado Marjanovic,Bigender,54,Regular,Bronx,New York
+673,Elyse Nowaczyk,Female,32,Regular,Tulsa,Oklahoma
+674,Maison Jerson,Male,57,Regular,Kansas City,Missouri
+675,Calv Lucks,Male,63,Premium,Brooksville,Florida
+676,Dorise Kirwood,Female,24,Premium,Washington,District of Columbia
+677,Sidonnie Ferreres,Female,58,Regular,Buffalo,New York
+678,Maggy Kirkhouse,Female,62,Regular,Los Angeles,California
+679,Maryanne Zahor,Agender,25,Regular,Lansing,Michigan
+680,Tirrell Lintott,Male,57,Wholesale,Arlington,Texas
+681,Burgess Beckingham,Male,39,Wholesale,Cincinnati,Ohio
+682,Cris Sollitt,Male,28,Premium,Sparks,Nevada
+683,Norman Terbeek,Male,46,Premium,Knoxville,Tennessee
+684,Abbott Cicchitello,Male,63,Premium,Las Vegas,Nevada
+685,Lynsey Geraldez,Female,36,Wholesale,Corpus Christi,Texas
+686,Kathi Cristoforo,Agender,50,Wholesale,Sunnyvale,California
+687,Larina Carruth,Agender,31,Wholesale,Naples,Florida
+688,Thekla Pideon,Female,19,Premium,San Francisco,California
+689,Reinhard Ferrie,Male,52,Wholesale,Killeen,Texas
+690,Patrizia Newland,Female,53,Regular,Reno,Nevada
+691,Margarita Simmgen,Polygender,57,Regular,Cincinnati,Ohio
+692,Neils Deppen,Male,24,Premium,Roanoke,Virginia
+693,Gordon Tart,Genderfluid,55,Premium,New Hyde Park,New York
+694,Beverie Yegoshin,Female,47,Regular,New York City,New York
+695,Erinn Buffin,Female,56,Premium,El Paso,Texas
+696,Dalis Andrei,Male,24,Premium,Las Vegas,Nevada
+697,Rochelle Notman,Female,35,Premium,Trenton,New Jersey
+698,Harrie Feeny,Female,34,Regular,Fort Lauderdale,Florida
+699,Melisa Dollin,Female,24,Wholesale,Miami,Florida
+700,Kalila Oxberry,Female,45,Regular,Henderson,Nevada
+701,Kiersten Sandifer,Agender,42,Wholesale,San Antonio,Texas
+702,Leeanne Jeppensen,Female,32,Wholesale,Rochester,New York
+703,Nickie Blakes,Male,48,Regular,Brooklyn,New York
+704,Avrom Tratton,Male,58,Regular,Des Moines,Iowa
+705,Livvie Londesborough,Female,50,Wholesale,Indianapolis,Indiana
+706,Rikki Czapla,Female,38,Premium,Seattle,Washington
+707,Laurena Gethin,Female,26,Regular,Tampa,Florida
+708,Abby Golding,Female,57,Wholesale,Anchorage,Alaska
+709,Edward Trevascus,Male,63,Regular,Norwalk,Connecticut
+710,Jade Mc Cahey,Female,20,Regular,Jacksonville,Florida
+711,Neddie Ainger,Male,59,Regular,Evansville,Indiana
+712,Francene Sigert,Female,60,Wholesale,Reading,Pennsylvania
+713,Nancee Mitchiner,Female,29,Premium,Manassas,Virginia
+714,Jerrine Messiter,Female,61,Premium,Bridgeport,Connecticut
+715,Wendall Cabane,Male,44,Premium,San Antonio,Texas
+716,Lita Cecely,Female,18,Regular,El Paso,Texas
+717,Emili Shackell,Genderfluid,37,Regular,Portland,Oregon
+718,Donny Harce,Male,39,Regular,San Mateo,California
+719,Kimberlyn Ferre,Female,64,Premium,Salem,Oregon
+720,Ranee Gallagher,Female,32,Premium,Washington,District of Columbia
+721,Felicle Dewicke,Female,40,Regular,Detroit,Michigan
+722,Freeman Camock,Non-binary,36,Wholesale,Houston,Texas
+723,Willie Ferrini,Male,44,Wholesale,Little Rock,Arkansas
+724,Darbee Wardlaw,Male,23,Premium,Roanoke,Virginia
+725,Corabel Stanbrooke,Non-binary,65,Regular,Nashville,Tennessee
+726,Gunilla Woolerton,Female,38,Premium,Virginia Beach,Virginia
+727,Devy Searston,Male,36,Regular,Florence,South Carolina
+728,Brooks Hovenden,Genderfluid,57,Premium,Minneapolis,Minnesota
+729,Goldie Aveline,Female,23,Premium,Memphis,Tennessee
+730,Jedediah Jenks,Male,52,Wholesale,Colorado Springs,Colorado
+731,Baxy Jerrems,Male,50,Regular,Washington,District of Columbia
+732,Kayla Leahair,Female,44,Regular,Aurora,Colorado
+733,Amargo Ellsworthe,Non-binary,62,Regular,Sacramento,California
+734,Louise Mattiessen,Non-binary,56,Regular,Syracuse,New York
+735,Ursulina Mariault,Bigender,60,Wholesale,Fort Worth,Texas
+736,Zechariah Newbury,Male,47,Premium,Atlanta,Georgia
+737,Nicolle Annett,Polygender,61,Wholesale,Washington,District of Columbia
+738,Willi Cheves,Male,60,Regular,Garland,Texas
+739,Renaud Lidbetter,Male,20,Premium,Baltimore,Maryland
+740,Wayne Peer,Male,48,Wholesale,Nashville,Tennessee
+741,Gaylor Lartice,Male,47,Premium,Missoula,Montana
+742,Derrik Gyles,Male,26,Regular,Austin,Texas
+743,Gail Eddicott,Male,54,Regular,Louisville,Kentucky
+744,Dorey Bogue,Male,39,Wholesale,Huntington,West Virginia
+745,Debbi Destouche,Female,65,Premium,Lake Worth,Florida
+746,Sukey Skullet,Female,38,Premium,Conroe,Texas
+747,Colan Dyott,Male,52,Regular,Las Vegas,Nevada
+748,Barnaby Burhouse,Male,30,Regular,Washington,District of Columbia
+749,Edan Arrington,Male,63,Regular,Dayton,Ohio
+750,Maye McCuffie,Female,27,Wholesale,Albany,New York
+751,Perkin Martyntsev,Male,43,Wholesale,High Point,North Carolina
+752,Alvis Deport,Male,26,Premium,Oklahoma City,Oklahoma
+753,Anthe Noni,Female,55,Regular,Sparks,Nevada
+754,Jemie Petrak,Female,61,Wholesale,Cumming,Georgia
+755,Inez Andrzejowski,Female,61,Premium,Newark,Delaware
+756,Bernadine Maundrell,Female,57,Premium,Migrate,Kentucky
+757,Ralf Clelland,Male,33,Wholesale,Crawfordsville,Indiana
+758,Margaret Konzel,Female,26,Regular,Jackson,Mississippi
+759,Gasparo Hawarden,Male,45,Wholesale,Evansville,Indiana
+760,Katinka Corkett,Female,39,Regular,Scottsdale,Arizona
+761,Caspar Wasmer,Bigender,55,Premium,Bakersfield,California
+762,Loy Roslen,Male,23,Regular,Great Neck,New York
+763,Duane Plowright,Bigender,62,Wholesale,Spring,Texas
+764,Isa Delves,Female,40,Wholesale,Stamford,Connecticut
+765,Queenie McCallam,Female,25,Regular,Brooklyn,New York
+766,Ronny Middle,Female,42,Premium,Waco,Texas
+767,Carlynne Sprade,Female,51,Premium,Portland,Oregon
+768,Ermin McKeighen,Male,63,Premium,Joliet,Illinois
+769,Lawry Kondratenya,Male,21,Premium,Inglewood,California
+770,Edeline Hoopper,Female,32,Wholesale,Boulder,Colorado
+771,Katya Semerad,Female,43,Regular,Kansas City,Missouri
+772,Brian Sedgman,Male,48,Wholesale,Buffalo,New York
+773,Vladimir Bodsworth,Male,63,Regular,Louisville,Kentucky
+774,Derrik Dewitt,Male,43,Regular,Hyattsville,Maryland
+775,Glynis O'Deegan,Female,31,Wholesale,Lansing,Michigan
+776,Haven Corteis,Male,41,Wholesale,Fort Worth,Texas
+777,Reid Nertney,Male,29,Regular,Washington,District of Columbia
+778,Gertrude Torrans,Female,64,Regular,Jacksonville,Florida
+779,Hewie Ashmore,Male,34,Wholesale,Trenton,New Jersey
+780,Prudy Heis,Female,65,Regular,Baltimore,Maryland
+781,Ike Beetham,Male,59,Premium,Port Saint Lucie,Florida
+782,Nessi Riddel,Female,56,Wholesale,Des Moines,Iowa
+783,Pablo Toffoletto,Male,19,Premium,Palmdale,California
+784,Cristobal Berndt,Male,60,Wholesale,Grand Junction,Colorado
+785,Justinian Elacoate,Bigender,42,Wholesale,Washington,District of Columbia
+786,Gilda Stickells,Female,20,Wholesale,Santa Clara,California
+787,Tony Bidder,Genderqueer,50,Wholesale,Philadelphia,Pennsylvania
+788,Reese Trodd,Male,56,Regular,Duluth,Georgia
+789,Pancho Naile,Polygender,57,Wholesale,San Antonio,Texas
+790,Florian Colbran,Male,56,Regular,Oklahoma City,Oklahoma
+791,Candra Pietasch,Female,42,Wholesale,Richmond,Virginia
+792,Buddy Boutell,Male,18,Regular,Dallas,Texas
+793,Karine Bes,Female,31,Wholesale,New Orleans,Louisiana
+794,Katee Lidstone,Female,20,Wholesale,Saint Petersburg,Florida
+795,Tania Foltin,Female,48,Regular,Seattle,Washington
+796,Josey Baptiste,Female,20,Premium,Los Angeles,California
+797,Taddeusz Fer,Male,59,Premium,Washington,District of Columbia
+798,Daria Digance,Female,63,Premium,Dallas,Texas
+799,Callida Monshall,Female,56,Regular,Joliet,Illinois
+800,Gerri Papps,Genderqueer,60,Wholesale,Long Beach,California
+801,Lyndy Dunkersley,Female,29,Premium,Nashville,Tennessee
+802,Harlin Errigo,Male,42,Premium,Portland,Oregon
+803,Godart Trenbay,Male,62,Regular,Pittsburgh,Pennsylvania
+804,Rubin Van der Hoven,Polygender,49,Regular,New Orleans,Louisiana
+805,Giulio Guilloneau,Male,39,Wholesale,Indianapolis,Indiana
+806,Mace Edgecumbe,Male,57,Wholesale,Phoenix,Arizona
+807,Stu Kedward,Male,29,Regular,Tampa,Florida
+808,Aubert Gribbin,Male,19,Premium,El Paso,Texas
+809,Cliff Wringe,Male,57,Wholesale,Mobile,Alabama
+810,Walton Claypole,Male,42,Regular,Richmond,Virginia
+811,Alvis Keer,Male,35,Premium,Littleton,Colorado
+812,Chandra Downie,Female,65,Regular,Springfield,Illinois
+813,Linnie Acum,Female,63,Regular,Sunnyvale,California
+814,Carolee Vockings,Female,47,Regular,Richmond,Virginia
+815,Lavinia Bushe,Female,22,Regular,Portland,Oregon
+816,Tiff Croser,Female,29,Wholesale,El Paso,Texas
+817,Vyky Brasener,Female,62,Wholesale,Peoria,Illinois
+818,Tremayne Uden,Male,40,Regular,Hartford,Connecticut
+819,Franny Stigers,Male,39,Wholesale,Buffalo,New York
+820,Kipp Ferretti,Non-binary,27,Premium,Chicago,Illinois
+821,Ilyse Tipens,Female,49,Premium,Canton,Ohio
+822,Hulda Walwood,Female,52,Regular,Washington,District of Columbia
+823,Chelsy Dreng,Non-binary,50,Regular,Lexington,Kentucky
+824,Edeline Astles,Female,50,Regular,Sacramento,California
+825,Beret Jolliff,Female,35,Wholesale,Albuquerque,New Mexico
+826,Caz Klee,Male,40,Regular,Saint Petersburg,Florida
+827,Krysta Kunzler,Female,39,Regular,New York City,New York
+828,Christoper Simpson,Male,59,Premium,San Rafael,California
+829,Jock Bagley,Male,31,Premium,Waterbury,Connecticut
+830,Jessy Brayne,Female,29,Wholesale,Los Angeles,California
+831,Nichol Fleg,Female,55,Premium,Cleveland,Ohio
+832,Norina Le Galle,Female,30,Regular,Dallas,Texas
+833,Hagen Akister,Male,36,Wholesale,Santa Rosa,California
+834,Raoul Romi,Genderfluid,60,Premium,Fresno,California
+835,Eduino Desporte,Male,35,Premium,Long Beach,California
+836,Ario McVicar,Male,23,Wholesale,Dallas,Texas
+837,Minetta Vannet,Female,35,Wholesale,Naples,Florida
+838,Shaine Caudelier,Male,23,Wholesale,Cincinnati,Ohio
+839,Bartholomew Bloxam,Male,30,Wholesale,South Bend,Indiana
+840,Rachael Wyer,Female,46,Wholesale,San Francisco,California
+841,Horten Broggio,Male,60,Regular,Minneapolis,Minnesota
+842,Nora Ivain,Female,24,Premium,Daytona Beach,Florida
+843,Donal Gothrup,Male,36,Regular,Saint Paul,Minnesota
+844,Anastasie Baigent,Female,43,Wholesale,Charlotte,North Carolina
+845,Hiram Coppard,Male,28,Wholesale,Miami,Florida
+846,Nolly Boorn,Agender,21,Premium,Austin,Texas
+847,Allys Wallbridge,Female,21,Wholesale,Montgomery,Alabama
+848,Dayna Dillow,Female,47,Premium,Oklahoma City,Oklahoma
+849,Weston Dumberrill,Male,18,Premium,Bradenton,Florida
+850,Kristien Duiguid,Female,32,Wholesale,Philadelphia,Pennsylvania
+851,Ruthanne Jest,Female,30,Wholesale,Austin,Texas
+852,Theressa Edgin,Female,29,Regular,Saint Joseph,Missouri
+853,Becka McHan,Polygender,48,Regular,Long Beach,California
+854,Cris Shemwell,Female,31,Regular,Green Bay,Wisconsin
+855,Dillon Cleaveland,Male,55,Wholesale,Detroit,Michigan
+856,Angelo McGeraghty,Male,36,Regular,Phoenix,Arizona
+857,Ambrose Docksey,Male,37,Premium,Lexington,Kentucky
+858,Berny Richel,Agender,33,Premium,New Haven,Connecticut
+859,Lana Nice,Female,61,Premium,Columbus,Ohio
+860,Jaymie Bevington,Male,26,Wholesale,Washington,District of Columbia
+861,Kitti Skains,Female,40,Premium,Muskegon,Michigan
+862,Ellynn Banthorpe,Female,23,Wholesale,Huntsville,Alabama
+863,Lizzie Bish,Female,54,Premium,Mansfield,Ohio
+864,Zelig Gurling,Male,44,Regular,Austin,Texas
+865,Yorgos Gravell,Male,22,Regular,Sacramento,California
+866,Etan Scothorne,Male,63,Wholesale,El Paso,Texas
+867,Gunilla Finlaison,Female,63,Wholesale,Washington,District of Columbia
+868,Lonnie Bear,Genderfluid,41,Wholesale,Shreveport,Louisiana
+869,Chalmers Crowley,Male,59,Wholesale,El Paso,Texas
+870,Vivyanne Cromett,Female,52,Regular,Lincoln,Nebraska
+871,Gabriello Luard,Male,37,Regular,Reno,Nevada
+872,Dominique Reeve,Genderqueer,20,Wholesale,Portland,Oregon
+873,Damita Nealon,Female,65,Wholesale,Cleveland,Ohio
+874,Elene Frankcomb,Female,18,Premium,New Castle,Pennsylvania
+875,Mallory Whyteman,Polygender,28,Premium,Anchorage,Alaska
+876,Godart Gives,Male,21,Regular,San Diego,California
+877,Reagen Lawleff,Male,55,Regular,Sandy,Utah
+878,Rodrick John,Male,49,Premium,Oklahoma City,Oklahoma
+879,Eustace McLinden,Male,37,Regular,Hot Springs National Park,Arkansas
+880,Alla Medcraft,Female,30,Premium,Madison,Wisconsin
+881,Cora Hefford,Female,54,Regular,Houston,Texas
+882,Aguistin MacGillacolm,Male,58,Regular,Knoxville,Tennessee
+883,Con Aldwich,Male,63,Regular,Miami,Florida
+884,Von Stolz,Male,62,Wholesale,Vero Beach,Florida
+885,Ingmar Rust,Male,38,Regular,Baltimore,Maryland
+886,Jase Readett,Male,35,Wholesale,Los Angeles,California
+887,Calhoun Pettet,Male,52,Premium,Bronx,New York
+888,Mari Twigg,Female,28,Regular,Norfolk,Virginia
+889,Dino Tailour,Agender,61,Regular,Saint Louis,Missouri
+890,Allan Poole,Male,32,Regular,Carol Stream,Illinois
+891,Clarissa Dyos,Female,57,Wholesale,Washington,District of Columbia
+892,Alessandro Wardington,Polygender,57,Wholesale,West Hartford,Connecticut
+893,Tanhya Peregrine,Female,64,Regular,Atlanta,Georgia
+894,Clevie Mallender,Male,21,Premium,Wichita,Kansas
+895,Tamiko Wint,Female,63,Wholesale,Albany,New York
+896,Idalina Burford,Female,38,Regular,Austin,Texas
+897,Lexy Keyhoe,Female,32,Premium,Chicago,Illinois
+898,Grace Tenman,Male,28,Wholesale,New Orleans,Louisiana
+899,Jacqui Gilardengo,Female,41,Wholesale,Salt Lake City,Utah
+900,Cherilynn Kilfether,Female,32,Premium,Chicago,Illinois
+901,Daniele Doag,Female,25,Regular,Erie,Pennsylvania
+902,Ned Heynen,Male,55,Wholesale,Houston,Texas
+903,Burt Faughny,Polygender,57,Premium,Honolulu,Hawaii
+904,Northrup Neale,Male,38,Premium,San Diego,California
+905,Yetty Purslow,Female,46,Premium,New York City,New York
+906,Burt Bonnick,Male,41,Premium,Mountain View,California
+907,Clarice Garahan,Female,56,Premium,Memphis,Tennessee
+908,Rosalinda Aubin,Female,53,Premium,Philadelphia,Pennsylvania
+909,Manfred Lyenyng,Male,46,Premium,Kansas City,Missouri
+910,Annabel Cleary,Female,58,Wholesale,Houston,Texas
+911,Terry Walpole,Male,58,Wholesale,Mobile,Alabama
+912,Sim Martynka,Male,65,Wholesale,Dallas,Texas
+913,Batsheva Cattow,Female,43,Regular,Kansas City,Missouri
+914,Travis Palfery,Male,20,Premium,Charlotte,North Carolina
+915,Merill Shelton,Male,52,Wholesale,Tucson,Arizona
+916,Harlin Grzegorecki,Male,36,Wholesale,Tulsa,Oklahoma
+917,Veronika Gheeorghie,Female,43,Wholesale,Atlanta,Georgia
+918,Toddy Tilby,Male,20,Wholesale,North Las Vegas,Nevada
+919,Lillis Tole,Non-binary,52,Regular,Little Rock,Arkansas
+920,Seka Otterwell,Female,45,Premium,Biloxi,Mississippi
+921,Read Northcote,Male,34,Regular,Albany,New York
+922,Judy Tommis,Female,63,Regular,San Antonio,Texas
+923,Marguerite Skpsey,Female,62,Premium,Louisville,Kentucky
+924,Willamina Filochov,Genderqueer,22,Premium,Pasadena,California
+925,Byram Olenikov,Male,38,Regular,Portland,Oregon
+926,Sauncho Cancott,Male,20,Wholesale,Memphis,Tennessee
+927,Flora Pallaske,Non-binary,58,Premium,New Orleans,Louisiana
+928,Loren Gealle,Female,53,Premium,Newport Beach,California
+929,Rodrick Oram,Male,56,Wholesale,Akron,Ohio
+930,Barrie Jobern,Male,58,Wholesale,Washington,District of Columbia
+931,Roxine Bader,Female,52,Regular,Whittier,California
+932,Herc Fransinelli,Male,40,Premium,Huntsville,Alabama
+933,Jori Blunsden,Polygender,38,Wholesale,Fort Wayne,Indiana
+934,Irma Haysey,Female,56,Premium,Montgomery,Alabama
+935,Haslett Marzelle,Male,45,Regular,Springfield,Massachusetts
+936,Ludwig Epp,Male,44,Wholesale,Wilmington,North Carolina
+937,Way Friedman,Male,44,Premium,Milwaukee,Wisconsin
+938,Boothe Nelles,Male,41,Premium,Youngstown,Ohio
+939,Chicky Bonsul,Female,43,Wholesale,Sacramento,California
+940,Sandor Loghan,Male,60,Wholesale,Jersey City,New Jersey
+941,Giraud Barta,Male,60,Premium,Honolulu,Hawaii
+942,Fredia Rabbe,Female,44,Premium,Peoria,Illinois
+943,Leela Beardow,Female,45,Regular,Chicago,Illinois
+944,Gabie Victoria,Male,27,Premium,Maple Plain,Minnesota
+945,Lauretta Arnaudot,Female,56,Premium,Dallas,Texas
+946,Valaria Launchbury,Female,22,Wholesale,Kansas City,Missouri
+947,Dianne Blaszczak,Genderqueer,27,Wholesale,Winter Haven,Florida
+948,Pietrek Lawrance,Male,19,Regular,Brockton,Massachusetts
+949,Beauregard Hundell,Male,62,Regular,Nashville,Tennessee
+950,Stirling Chart,Male,47,Regular,Champaign,Illinois
+951,Patrice Ickowics,Female,43,Premium,Tampa,Florida
+952,Skipper Grogona,Male,33,Premium,Vancouver,Washington
+953,Shell Dressel,Female,47,Wholesale,Houston,Texas
+954,Carson Smallridge,Male,53,Wholesale,San Diego,California
+955,Gawen Deluce,Male,18,Wholesale,Nashville,Tennessee
+956,Harvey Biasioni,Male,47,Wholesale,Austin,Texas
+957,Alexina Skippon,Genderqueer,34,Wholesale,San Antonio,Texas
+958,Cherri Fulham,Female,43,Regular,Shreveport,Louisiana
+959,Betteann Parades,Female,49,Wholesale,Washington,District of Columbia
+960,Clary Caghan,Female,24,Wholesale,Birmingham,Alabama
+961,Dionisio Bridgwater,Male,65,Regular,San Antonio,Texas
+962,Alick Pringour,Male,31,Wholesale,Austin,Texas
+963,Aylmar Bullers,Male,28,Premium,Kansas City,Missouri
+964,Humfrey Purkins,Male,62,Regular,Milwaukee,Wisconsin
+965,Clayson MacGilrewy,Male,27,Premium,Gary,Indiana
+966,Grannie Hillock,Male,36,Regular,Salt Lake City,Utah
+967,Dulcie Caldecourt,Female,28,Wholesale,Chicago,Illinois
+968,Kristofor Dadge,Male,63,Regular,Springfield,Ohio
+969,Perceval Finlater,Male,23,Regular,Indianapolis,Indiana
+970,Renato Souster,Male,42,Wholesale,Washington,District of Columbia
+971,Rowe Enrietto,Female,20,Wholesale,Birmingham,Alabama
+972,Jourdan Berresford,Female,51,Premium,Bronx,New York
+973,Mauricio Hawthorn,Male,39,Wholesale,Saginaw,Michigan
+974,Mel Brusle,Female,46,Premium,Colorado Springs,Colorado
+975,Dewitt Siburn,Male,26,Wholesale,San Francisco,California
+976,Diena Thomerson,Female,22,Wholesale,Birmingham,Alabama
+977,Arnie Kybert,Male,43,Regular,Los Angeles,California
+978,Lin Skerritt,Male,30,Regular,Olympia,Washington
+979,Michaella Thomasson,Female,32,Premium,Fresno,California
+980,Craggie Henzer,Male,36,Regular,Sioux City,Iowa
+981,Barton Littlejohns,Male,54,Regular,Jackson,Mississippi
+982,Madelyn Sizey,Female,31,Premium,Washington,District of Columbia
+983,Lamont Fluger,Male,42,Regular,New Orleans,Louisiana
+984,Burgess Musico,Male,24,Regular,Santa Fe,New Mexico
+985,Sinclair Petley,Male,38,Regular,Santa Monica,California
+986,Harris Pincott,Male,48,Regular,Jamaica,New York
+987,Simone Wycliff,Male,31,Wholesale,Young America,Minnesota
+988,Vyky Thurlbeck,Agender,44,Regular,Houston,Texas
+989,Jemimah D'Alessandro,Genderqueer,55,Regular,Jefferson City,Missouri
+990,Ced Muddicliffe,Male,47,Premium,Delray Beach,Florida
+991,Claudian Rugg,Male,43,Regular,Peoria,Illinois
+992,Meghann Cartin,Genderfluid,32,Premium,Jacksonville,Florida
+993,Aron Carwithen,Male,25,Wholesale,El Paso,Texas
+994,Sherilyn Conor,Female,43,Wholesale,Charlotte,North Carolina
+995,Ignacio Burds,Male,24,Premium,Kansas City,Kansas
+996,Roy Kuzemka,Male,62,Wholesale,Corpus Christi,Texas
+997,Arlette Johananov,Female,51,Regular,Washington,District of Columbia
+998,Dilan Stefanovic,Male,21,Premium,El Paso,Texas
+999,Haslett Martinyuk,Male,65,Wholesale,Winston Salem,North Carolina
+1000,Hugues Pagin,Male,28,Wholesale,Lansing,Michigan
